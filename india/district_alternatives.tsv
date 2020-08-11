@@ -6,6 +6,7 @@ almora	Almora
 champawat	Champawat
 uttarkashi	Uttarkashi
 garhwal	Garhwal
+pauri garhwal	Garhwal
 hardwar	Hardwar
 rudraprayag	Rudraprayag
 tehri garhwal	Tehri Garhwal
@@ -39,6 +40,7 @@ shupiyan	Shupiyan
 shopian	Shupiyan
 reasi	Reasi
 rajouri	Rajouri
+rajauri	Rajouri
 jammu	Jammu
 srinagar	Srinagar
 punch	Punch
@@ -56,6 +58,7 @@ anand	Anand
 narmada	Narmada
 amreli	Amreli
 dohad	Dohad
+Dahod	Dohad
 doda	Doda
 pulwama	Pulwama
 vadodara	Vadodara
@@ -86,6 +89,8 @@ ambedkar nagar	Ambedkar Nagar
 ballia	Ballia
 kanpur nagar	Kanpur Nagar
 sant ravidas nagar (bhadohi)	Sant Ravidas Nagar (Bhadohi)
+sant ravidas nagar	Sant Ravidas Nagar (Bhadohi)
+bhadohi	Sant Ravidas Nagar (Bhadohi)
 daman	Daman
 diu	Diu
 bhavnagar	Bhavnagar
@@ -95,6 +100,7 @@ chhota udaipur	Chhota Udaipur
 batod	Batod
 rajkot	Rajkot
 kachchh	Kachchh
+kutch	Kachchh
 kurnool	Kurnool
 guntur	Guntur
 vizianagaram	Vizianagaram
@@ -116,6 +122,7 @@ bharuch	Bharuch
 gir somnath	Gir Somnath
 junagadh	Junagadh
 devbhumi dwarka	Devbhumi Dwarka
+devbhumi dwaraka	Devbhumi Dwarka
 navsari	Navsari
 surat	Surat
 jamnagar	Jamnagar
@@ -138,10 +145,12 @@ gandhinagar	Gandhinagar
 mahisagar	Mahisagar
 morbi	Morbi
 panch mahals	Panch Mahals
+panch mahal	Panch Mahals
 kozhikode	Kozhikode
 kottayam	Kottayam
 thrissur	Thrissur
 palakkad	Palakkad
+palghat	Palakkad
 thiruvananthapuram	Thiruvananthapuram
 malappuram	Malappuram
 wayanad	Wayanad
@@ -151,7 +160,10 @@ sheikhpura	Sheikhpura
 jehanabad	Jehanabad
 saharsa	Saharsa
 dadra & nagar haveli	Dadra & Nagar Haveli
+dadra&nagar haveli	Dadra & Nagar Haveli
+dadra and nagar haveli	Dadra & Nagar Haveli
 ashoknagar	Ashoknagar
+ashok nagar	Ashoknagar
 raisen	Raisen
 chhindwara	Chhindwara
 patna	Patna
@@ -167,6 +179,9 @@ guna	Guna
 dewas	Dewas
 mandsaur	Mandsaur
 khargone (west nimar)	Khargone (West Nimar)
+khargone	Khargone (West Nimar)
+west nimar	Khargone (West Nimar)
+khargone west nimar	Khargone (West Nimar)
 sheopur	Sheopur
 morena	Morena
 burhanpur	Burhanpur
@@ -188,6 +203,7 @@ bankura	Bankura
 puruliya	Puruliya
 purulia	Puruliya
 koch bihar	Koch Bihar
+kochbihar	Koch Bihar
 paschim medinipur	Paschim Medinipur
 west sikkim	West Sikkim
 kolkata	Kolkata
@@ -201,6 +217,7 @@ jalpaiguri	Jalpaiguri
 uttar dinajpur	Uttar Dinajpur
 purba medinipur	Purba Medinipur
 haora	Haora
+howrah	Haora
 north twenty four parganas	North Twenty Four Parganas
 north 24 parganas	North Twenty Four Parganas
 north 24 paraganas	North Twenty Four Parganas
@@ -209,6 +226,15 @@ north 24 pargana	North Twenty Four Parganas
 birbhum	Birbhum
 jamtara	Jamtara
 saraikela-kharsawan	Saraikela-Kharsawan
+saraikela kharsawan	Saraikela-Kharsawan
+saraikela and kharsawan	Saraikela-Kharsawan
+saraikela & kharsawan	Saraikela-Kharsawan
+saraikela&kharsawan	Saraikela-Kharsawan
+sareikela-kharsawan	Saraikela-Kharsawan
+sareikela kharsawan	Saraikela-Kharsawan
+sareikela and kharsawan	Saraikela-Kharsawan
+sareikela & kharsawan	Saraikela-Kharsawan
+sareikela&kharsawan	Saraikela-Kharsawan
 simdega	Simdega
 latehar	Latehar
 khunti	Khunti
@@ -256,10 +282,12 @@ nalanda	Nalanda
 katihar	Katihar
 west delhi	West Delhi
 mewat	Mewat
+nuh	Mewat
 jhajjar	Jhajjar
 bhiwani	Bhiwani
 kaithal	Kaithal
 siddharthnagar	Siddharthnagar
+siddharth nagar	Siddharthnagar
 sant kabir nagar	Sant Kabir Nagar
 dhanbad	Dhanbad
 dumka	Dumka
@@ -269,6 +297,7 @@ banka	Banka
 aurangabad (bihar)	Aurangabad (Bihar)
 nawada	Nawada
 araria	Araria
+warangal	Warangal
 pashchim champaran	Pashchim Champaran
 muzaffarpur	Muzaffarpur
 saran	Saran
@@ -281,6 +310,7 @@ panipat	Panipat
 mahendragarh	Mahendragarh
 fatehabad	Fatehabad
 shahid bhagat singh nagar	Shahid Bhagat Singh Nagar
+shaheed bhagat singh nagar	Shahid Bhagat Singh Nagar
 mandya	Mandya
 mysore	Mysore
 mysuru	Mysore
@@ -288,7 +318,9 @@ chikkaballapura	Chikkaballapura
 chickballapur	Chikkaballapura
 chickaballapur	Chikkaballapura
 yadgir	Yadgir
+yadagiri	Yadgir
 chikmagalur	Chikmagalur
+chikkamagaluru	Chikmagalur
 chitradurga	Chitradurga
 haveri	Haveri
 dakshina kannada	Dakshina Kannada
@@ -310,6 +342,7 @@ kalaburagi	Gulbarga
 gadag	Gadag
 udupi	Udupi
 bagalkot	Bagalkot
+bagalkote	Bagalkot
 hassan	Hassan
 shimoga	Shimoga
 shivamogga	Shimoga
@@ -325,15 +358,19 @@ faridabad	Faridabad
 sirsa	Sirsa
 hisar	Hisar
 bangalore rural	Bangalore Rural
+bangalore (r)	Bangalore Rural
 tumkur	Tumkur
 belgaum	Belgaum
 belagavi	Belgaum
 koppal	Koppal
 bangalore	Bangalore
+bangalore urban	Bangalore
+bangalore (u)	Bangalore
 bengaluru	Bangalore
 ramanagara	Ramanagara
 washim	Washim
 ahmadnagar	Ahmadnagar
+ahmednagar	Ahmadnagar
 latur	Latur
 solapur	Solapur
 nashik	Nashik
@@ -363,9 +400,15 @@ ratnagiri	Ratnagiri
 wardha	Wardha
 aurangabad (maharashtra)	Aurangabad (Maharashtra)
 buldana	Buldana
+buldhana	Buldana
 gadchiroli	Gadchiroli
 jalgaon	Jalgaon
 raigarh (maharashtra)	Raigarh (Maharashtra)
+raigad	Raigarh (Maharashtra)
+kolaba	Raigarh (Maharashtra)
+kolába	Raigarh (Maharashtra)
+kulába	Raigarh (Maharashtra)
+kulaba	Raigarh (Maharashtra)
 bhandara	Bhandara
 bid	Bid
 jalna	Jalna
@@ -378,16 +421,19 @@ patiala	Patiala
 tarn taran	Tarn Taran
 kapurthala	Kapurthala
 fatehgarh sahib	Fatehgarh Sahib
+fategarh sahib	Fatehgarh Sahib
 sangrur	Sangrur
 yanam	Yanam
 tamenglong	Tamenglong
 bara banki	Bara Banki
+barabanki	Bara Banki
 mahoba	Mahoba
 mahrajganj	Mahrajganj
 mirzapur	Mirzapur
 kushinagar	Kushinagar
 north delhi	North Delhi
 gurgaon	Gurgaon
+gurugram	Gurgaon
 yamunanagar	Yamunanagar
 palwal	Palwal
 panchkula	Panchkula
@@ -398,6 +444,7 @@ unnao	Unnao
 fatehpur	Fatehpur
 mau	Mau
 rae bareli	Rae Bareli
+rae bareilly	Rae Bareli
 amethi	Amethi
 ghaziabad	Ghaziabad
 muzaffarnagar	Muzaffarnagar
@@ -466,6 +513,7 @@ gomati	Gomati
 south tripura	South Tripura
 south garo hills	South Garo Hills
 ribhoi	Ribhoi
+ri-bhoi	Ribhoi
 east khasi hills	East Khasi Hills
 west khasi hills	West Khasi Hills
 south west khasi hills	South West Khasi Hills
@@ -479,7 +527,7 @@ krishnagiri	Krishnagiri
 erode	Erode
 coimbatore	Coimbatore
 warangal (r)	Warangal (R)
-warangal	Warangal (R)
+warangal rural	Warangal (R)
 serchhip	Serchhip
 aizawl	Aizawl
 mumbai suburban	Mumbai Suburban
@@ -531,11 +579,13 @@ hanumangarh	Hanumangarh
 nagaur	Nagaur
 barmer	Barmer
 ganganagar	Ganganagar
+sri ganganagar	Ganganagar
 jodhpur	Jodhpur
 churu	Churu
 bikaner	Bikaner
 pratapgarh (rajasthan)	Pratapgarh (Rajasthan)
 morigaon	Morigaon
+marigaon	Morigaon
 karbi anglong	Karbi Anglong
 lakhimpur	Lakhimpur
 golaghat	Golaghat
@@ -546,6 +596,7 @@ ajmer	Ajmer
 bharatpur	Bharatpur
 dungarpur	Dungarpur
 chittaurgarh	Chittaurgarh
+chittorgarh	Chittaurgarh
 udaipur	Udaipur
 jalor	Jalor
 dausa	Dausa
@@ -553,19 +604,28 @@ sirohi	Sirohi
 bongaigaon	Bongaigaon
 west jaintia hills	West Jaintia Hills
 sivaganga	Sivaganga
+sivagangai	Sivaganga
 thanjavur	Thanjavur
 tiruvannamalai	Tiruvannamalai
+tiruvanamalai	Tiruvannamalai
 kamrup metropolitan	Kamrup Metropolitan
 ramanathapuram	Ramanathapuram
 tirunelveli	Tirunelveli
+tirunelveli kattabo	Tirunelveli
 virudhunagar	Virudhunagar
+virudhu nagar	Virudhunagar
 kokrajhar	Kokrajhar
 jorhat	Jorhat
 khowai	Khowai
 sipahijula	Sipahijula
+sipahijala	Sipahijula
+sepahijala	Sipahijula
+sepahijula	Sipahijula
 east garo hills	East Garo Hills
 north garo hills	North Garo Hills
 subarnapur	Subarnapur
+sonapur	Subarnapur
+sonepur	Subarnapur
 puri	Puri
 debagarh	Debagarh
 south west garo hills	South West Garo Hills
@@ -593,6 +653,7 @@ nuapada	Nuapada
 rayagada	Rayagada
 jharsuguda	Jharsuguda
 bemetra	Bemetra
+bemetara	Bemetra
 bastar	Bastar
 thiruvarur	Thiruvarur
 tiruvarur	Thiruvarur
@@ -606,6 +667,7 @@ uttar bastar kanker	Uttar Bastar Kanker
 baloda bazar	Baloda Bazar
 balod	Balod
 tiruchirappalli	Tiruchirappalli
+tiruchchirappalli	Tiruchirappalli
 tiruchi	Tiruchirappalli
 tiruppur	Tiruppur
 tirupur	Tiruppur
@@ -617,10 +679,13 @@ moradabad	Moradabad
 sambhal	Sambhal
 budaun	Budaun
 kanshiram nagar	Kanshiram Nagar
+kanshi ram nagar	Kanshiram Nagar
+kasganj	Kanshiram Nagar
 bahraich	Bahraich
 hapur	Hapur
 sitapur	Sitapur
 samli	Samli
+shamli	Samli
 dakshin bastar dantewada	Dakshin Bastar Dantewada
 dantewada	Dakshin Bastar Dantewada
 dantewara	Dakshin Bastar Dantewada
@@ -637,6 +702,7 @@ etah	Etah
 hardoi	Hardoi
 balrampur (uttar pradesh)	Balrampur (Uttar Pradesh)
 mahamaya nagar	Mahamaya Nagar
+hathras	Mahamaya Nagar
 shahjahanpur	Shahjahanpur
 farrukhabad	Farrukhabad
 kannauj	Kannauj
@@ -687,10 +753,12 @@ gonda	Gonda
 kanpur dehat	Kanpur Dehat
 jaunpur	Jaunpur
 chennai	Chennai
+alandur	Chennai
 nagapattinam	Nagapattinam
 viluppuram	Viluppuram
 villupuram	Viluppuram
 kancheepuram	Kancheepuram
+kanchipuram	Kancheepuram
 banswara	Banswara
 kanniyakumari	Kanniyakumari
 kanyakumari	Kanniyakumari
@@ -698,6 +766,7 @@ thoothukkudi	Thoothukkudi
 tuticorin	Thoothukkudi
 thoothukudi	Thoothukkudi
 allahabad	Allahabad
+prayagraj	Allahabad
 the nilgiris	The Nilgiris
 nilgiris	The Nilgiris
 jhalawar	Jhalawar
@@ -710,9 +779,11 @@ jangaon	Jangaon
 mancherial	Mancherial
 bhadradri	Bhadradri
 kothagudem	Bhadradri
+bhadradri kothagudem	Bhadradri
 hydrabad	Hydrabad
 hyderabad	Hydrabad
 karimnagar	Karimnagar
+karim nagar	Karimnagar
 nizamabad	Nizamabad
 medak	Medak
 rangareddy	Rangareddy
@@ -720,24 +791,34 @@ nalgonda	Nalgonda
 nagarkurnool	Nagarkurnool
 adilabad	Adilabad
 komaram bheem	Komaram Bheem
+komram bheem	Komaram Bheem
 nirmal	Nirmal
 jagtial	Jagtial
 kamareddy	Kamareddy
 warangal (u)	Warangal (U)
+warangal urban	Warangal (U)
 jayashankar	Jayashankar
+jayashankar bhupalapally	Jayashankar
 peddapalli	Peddapalli
 rajanna sircilla	Rajanna Sircilla
 sangareddy	Sangareddy
 siddipet	Siddipet
 mahabubabad	Mahabubabad
-mahbubnagar	Mahabubabad
 khammam	Khammam
 suryapet	Suryapet
 jogulamba	Jogulamba
+jogulamba gadwal	Jogulamba
 yadadri	Yadadri
+yadadri bhuvanagiri	Yadadri
 medchal	Medchal
+medchal–malkajgiri	Medchal
+malkajgiri	Medchal
 wanaparthy	Wanaparthy
 vikarabad	Vikarabad
 mahabubnagar	Mahabubnagar
+mahabub nagar	Mahabubnagar
+mahbubnagar	Mahabubnagar
+mahbub nagar	Mahabubnagar
 kargil	Kargil
 leh (ladakh)	Leh (Ladakh)
+leh	Leh (Ladakh)

@@ -104,3 +104,10 @@ with open("district_coords_dict.json", "w", encoding="utf-8") as f:
 #      - Unsure what to here???
 #      - Check the district part in district name list (with alternatives)???
 #    - If returned value is None, exit
+
+
+# Current known exceptions, ambiguities, new districts etc. in geopy_outs.txt
+dist_ambiguities = ["Bijapur", "Hamirpur", "Aurangabad", "Balrampur", "Pratapgarh", "Raigarh", "Bilaspur"]
+dist_unknowns = ["Jhargram", "Charaideo", "East Karbi Anglong", "West Karbi Anglong", "Purba Bardhaman", "Paschim Bardhaman", "Kalimpong", "Thodupuzha", "Hojai", "Jiribam", "Noney", "Alipurduar", "Narayanpet", "Bishwanath", "Longding", "Agar Malwa", "Tengnoupal", "Devikulam", "Peerumade", "Roorkee", "Udumbanchola", "Kangpokpi", "Sohna", "Kamjong", "Haldwani", "Phungyar"]
+dist_new_ones = ["Tenkasi", "Kallakurichi", "Tirupattur", "Chengalpattu", "Sholinganallur", "Ranipet", "Mulugu"]
+national_parks = ["Manas National Park", "Bandipur National Park/Tiger Reserve", "Nallamala Forest", "Nagarahole (Rajiv Gandhi) National Park/Tiger Reserve", "Kaziranga National Park/Tiger Reserve", "Bannerghatta National Park", "Rajaji National Park/Tiger Reserve"]
