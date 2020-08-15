@@ -391,7 +391,7 @@
 {"State":"Orissa","District":"Kandhamal","COORD_X":84.0308906042,"COORD_Y":20.1059939355}
 {"State":"Uttar Pradesh","District":"Pilibhit","COORD_X":79.9211064066,"COORD_Y":28.5223408556}
 {"State":"Uttarakhand","District":"Pithoragarh","COORD_X":80.3575846859,"COORD_Y":30.1441520345}
-{"State":"Pondicherry","District":"Puducherry","COORD_X":79.7218940707,"COORD_Y":11.8998556174}
+{"State":"Puducherry","District":"Puducherry","COORD_X":79.7218940707,"COORD_Y":11.8998556174}
 {"State":"Gujarat","District":"Porbandar","COORD_X":69.6980225265,"COORD_Y":21.5462938915}
 {"State":"Andhra Pradesh","District":"Prakasam","COORD_X":79.8327229597,"COORD_Y":15.5767159128}
 {"State":"Uttar Pradesh","District":"Pratapgarh (Uttar Pradesh)","COORD_X":81.9447046317,"COORD_Y":25.8606819275}
@@ -531,7 +531,7 @@
 {"State":"Tripura","District":"West Tripura","COORD_X":91.4637242752,"COORD_Y":23.7756804395}
 {"State":"Nagaland","District":"Wokha","COORD_X":94.1988614514,"COORD_Y":26.1984816393}
 {"State":"Haryana","District":"Yamunanagar","COORD_X":77.3266519187,"COORD_Y":30.2598707141}
-{"State":"Pondicherry","District":"Yanam","COORD_X":82.2487040279,"COORD_Y":16.7335641359}
+{"State":"Puducherry","District":"Yanam","COORD_X":82.2487040279,"COORD_Y":16.7335641359}
 {"State":"Maharashtra","District":"Yavatmal","COORD_X":78.0409508827,"COORD_Y":20.0363618142}
 {"State":"Nagaland","District":"Zunheboto","COORD_X":94.5180406669,"COORD_Y":26.0264760309}
 {"State":"NCT of Delhi","District":"Central Delhi","COORD_X":77.2166647482,"COORD_Y":28.6412895292}
@@ -583,8 +583,8 @@
 {"State":"Tamil Nadu","District":"Thanjavur","COORD_X":79.2679531109,"COORD_Y":10.6423553473}
 {"State":"Tamil Nadu","District":"Thiruvarur","COORD_X":79.5710691827,"COORD_Y":10.6472896821}
 {"State":"Tamil Nadu","District":"Nagapattinam","COORD_X":79.7288312328,"COORD_Y":10.7627429791}
-{"State":"Pondicherry","District":"Karaikal","COORD_X":79.7836529517,"COORD_Y":10.9288046666}
-{"State":"Pondicherry","District":"Mahe","COORD_X":75.540732425,"COORD_Y":11.7231456371}
+{"State":"Puducherry","District":"Karaikal","COORD_X":79.7836529517,"COORD_Y":10.9288046666}
+{"State":"Puducherry","District":"Mahe","COORD_X":75.540732425,"COORD_Y":11.7231456371}
 {"State":"Rajasthan","District":"Baran","COORD_X":76.8650361772,"COORD_Y":24.968728173}
 {"State":"Gujarat","District":"Bharuch","COORD_X":72.6782272495,"COORD_Y":21.7900745119}
 {"State":"Gujarat","District":"Surat","COORD_X":72.9227161725,"COORD_Y":21.266916687}

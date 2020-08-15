@@ -350,7 +350,7 @@
 {"State":"Uttar Pradesh","District":"Mahrajganj","COORD_X":83.55699364,"COORD_Y":27.20436361}
 {"State":"Chhatisgarh","District":"Mahasamund","COORD_X":82.65734634,"COORD_Y":21.22857722}
 {"State":"Andhra Pradesh","District":"Mahabubnagar","COORD_X":77.99514173,"COORD_Y":16.6441792}
-{"State":"Pondicherry","District":"Mahe","COORD_X":75.54002872,"COORD_Y":11.72682714}
+{"State":"Puducherry","District":"Mahe","COORD_X":75.54002872,"COORD_Y":11.72682714}
 {"State":"Haryana","District":"Mahendragarh","COORD_X":76.14020641,"COORD_Y":28.14075281}
 {"State":"Gujarat","District":"Mahesana","COORD_X":72.41204764,"COORD_Y":23.54787373}
 {"State":"Uttar Pradesh","District":"Mahoba","COORD_X":79.65150235,"COORD_Y":25.31312485}
@@ -630,9 +630,9 @@
 {"State":"Bihar","District":"Arwal","COORD_X":84.73899199,"COORD_Y":25.15464484}
 {"State":"Bihar","District":"Jehanabad","COORD_X":85.02856503,"COORD_Y":25.13411707}
 {"State":"Tamil Nadu","District":"Nagapattinam","COORD_X":79.72886078,"COORD_Y":10.76299366}
-{"State":"Pondicherry","District":"Karaikal","COORD_X":79.79025499,"COORD_Y":10.92543772}
-{"State":"Pondicherry","District":"Puducherry","COORD_X":79.71641245,"COORD_Y":11.91326507}
-{"State":"Pondicherry","District":"Yanam","COORD_X":82.24870396,"COORD_Y":16.73356432}
+{"State":"Puducherry","District":"Karaikal","COORD_X":79.79025499,"COORD_Y":10.92543772}
+{"State":"Puducherry","District":"Puducherry","COORD_X":79.71641245,"COORD_Y":11.91326507}
+{"State":"Puducherry","District":"Yanam","COORD_X":82.24870396,"COORD_Y":16.73356432}
 {"State":"Gujarat","District":"Tapi","COORD_X":73.93407968,"COORD_Y":21.34688372}
 {"State":"Andaman & Nicobar Islands","District":"Nicobars","COORD_X":93.54933306,"COORD_Y":7.858890032}
 {"State":"Andaman & Nicobar Islands","District":"South Andaman","COORD_X":92.72808035,"COORD_Y":11.73866192}

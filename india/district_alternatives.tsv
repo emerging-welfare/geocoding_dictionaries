@@ -19,6 +19,10 @@ shimla	Shimla
 bilaspur (himachal pradesh)	Bilaspur (Himachal Pradesh)
 kangra	Kangra
 lahul & spiti	Lahul & Spiti
+lahul&spiti	Lahul & Spiti
+lahul and spiti	Lahul & Spiti
+lahul spiti	Lahul & Spiti
+lahul-spiti	Lahul & Spiti
 una	Una
 solan	Solan
 sirmaur	Sirmaur
@@ -58,11 +62,12 @@ anand	Anand
 narmada	Narmada
 amreli	Amreli
 dohad	Dohad
-Dahod	Dohad
+dahod	Dohad
 doda	Doda
 pulwama	Pulwama
 vadodara	Vadodara
 aravali	Aravali
+aravalli	Aravali
 gwalior	Gwalior
 damoh	Damoh
 dhar	Dhar
@@ -98,6 +103,7 @@ ahmadabad	Ahmadabad
 ahmedabad	Ahmadabad
 chhota udaipur	Chhota Udaipur
 batod	Batod
+botad	Batod
 rajkot	Rajkot
 kachchh	Kachchh
 kutch	Kachchh
@@ -230,6 +236,11 @@ saraikela kharsawan	Saraikela-Kharsawan
 saraikela and kharsawan	Saraikela-Kharsawan
 saraikela & kharsawan	Saraikela-Kharsawan
 saraikela&kharsawan	Saraikela-Kharsawan
+seraikela-kharsawan	Saraikela-Kharsawan
+seraikela kharsawan	Saraikela-Kharsawan
+seraikela and kharsawan	Saraikela-Kharsawan
+seraikela & kharsawan	Saraikela-Kharsawan
+seraikela&kharsawan	Saraikela-Kharsawan
 sareikela-kharsawan	Saraikela-Kharsawan
 sareikela kharsawan	Saraikela-Kharsawan
 sareikela and kharsawan	Saraikela-Kharsawan
@@ -368,6 +379,9 @@ bangalore urban	Bangalore
 bangalore (u)	Bangalore
 bengaluru	Bangalore
 ramanagara	Ramanagara
+ramnagar	Ramanagara
+ramanagar	Ramanagara
+ramnagara	Ramanagara
 washim	Washim
 ahmadnagar	Ahmadnagar
 ahmednagar	Ahmadnagar
@@ -409,6 +423,8 @@ kolaba	Raigarh (Maharashtra)
 kolába	Raigarh (Maharashtra)
 kulába	Raigarh (Maharashtra)
 kulaba	Raigarh (Maharashtra)
+kulāba	Raigarh (Maharashtra)
+kolāba	Raigarh (Maharashtra)
 bhandara	Bhandara
 bid	Bid
 jalna	Jalna
@@ -537,6 +553,7 @@ south goa	South Goa
 north  & middle andaman	North  & Middle Andaman
 south andaman	South Andaman
 nicobars	Nicobars
+nicobar	Nicobars
 anugul	Anugul
 karaikal	Karaikal
 puducherry	Puducherry
@@ -661,7 +678,9 @@ thiruvallur	Thiruvallur
 mungeli	Mungeli
 bilaspur (chhatisgarh)	Bilaspur (Chhatisgarh)
 gariaband	Gariaband
-kabeerdham	Kabeerdham
+kabeerdham	Kabeerdha
+kabirdham	Kabeerdham
+kawardha	Kabeerdham
 sukma	Sukma
 uttar bastar kanker	Uttar Bastar Kanker
 baloda bazar	Baloda Bazar
