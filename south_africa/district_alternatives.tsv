@@ -4,6 +4,8 @@ buffalo city	Buffalo City Metropolitan
 buffalo	Buffalo City Metropolitan
 nelson mandela bay metropolitan	Nelson Mandela Bay Metropolitan
 nelson mandela bay	Nelson Mandela Bay Metropolitan
+port elizabeth metropolitan	Nelson Mandela Bay Metropolitan
+port elizabeth	Nelson Mandela Bay Metropolitan
 alfred nzo district	Alfred Nzo District
 alfred nzo district municipality	Alfred Nzo District
 alfred nzo	Alfred Nzo District
@@ -40,6 +42,12 @@ ngqushwa	Ngqushwa Local
 raymond mhlaba local	Raymond Mhlaba Local
 raymond mhlaba municipality	Raymond Mhlaba Local
 raymond mhlaba	Raymond Mhlaba Local
+nkonkobe local	Raymond Mhlaba Local
+nkonkobe municipality	Raymond Mhlaba Local
+nkonkobe	Raymond Mhlaba Local
+nxuba local	Raymond Mhlaba Local
+nxuba municipality	Raymond Mhlaba Local
+nxuba	Raymond Mhlaba Local
 chris hani district	Chris Hani District
 chris hani district municipality	Chris Hani District
 chris hani	Chris Hani District
@@ -52,6 +60,15 @@ engcobo	Engcobo Local
 enoch mgijima local	Enoch Mgijima Local
 enoch mgijima municipality	Enoch Mgijima Local
 enoch mgijima	Enoch Mgijima Local
+tsolwana local	Enoch Mgijima Local
+tsolwana municipality	Enoch Mgijima Local
+tsolwana	Enoch Mgijima Local
+inkwanca local	Enoch Mgijima Local
+inkwanca municipality	Enoch Mgijima Local
+inkwanca	Enoch Mgijima Local
+lukhanji local	Enoch Mgijima Local
+lukhanji municipality	Enoch Mgijima Local
+lukhanji	Enoch Mgijima Local
 intsika yethu local	Intsika Yethu Local
 intsika yethu municipality	Intsika Yethu Local
 intsika yethu	Intsika Yethu Local
@@ -73,6 +90,12 @@ senqu	Senqu Local
 walter sisulu local	Walter Sisulu Local
 walter sisulu municipality	Walter Sisulu Local
 walter sisulu	Walter Sisulu Local
+maletswai local	Walter Sisulu Local
+maletswai municipality	Walter Sisulu Local
+maletswai	Walter Sisulu Local
+gariep local	Walter Sisulu Local
+gariep municipality	Walter Sisulu Local
+gariep	Walter Sisulu Local
 or tambo district	OR Tambo District
 or tambo district municipality	OR Tambo District
 or tambo	OR Tambo District
@@ -95,6 +118,9 @@ port st johns	Port St Johns Local
 sarah baartman district	Sarah Baartman District
 sarah baartman district municipality	Sarah Baartman District
 sarah baartman	Sarah Baartman District
+cacadu district	Sarah Baartman District
+cacadu district municipality	Sarah Baartman District
+cacadu	Sarah Baartman District
 blue crane route local	Blue Crane Route Local
 blue crane route municipality	Blue Crane Route Local
 blue crane route	Blue Crane Route Local
@@ -104,6 +130,15 @@ dr beyers naudé	Dr Beyers Naudé Local
 dr. beyers naudé	Dr Beyers Naudé Local
 dr beyers naude	Dr Beyers Naudé Local
 dr. beyers naude	Dr Beyers Naudé Local
+camdeboo local	Dr Beyers Naudé Local
+camdeboo municipality	Dr Beyers Naudé Local
+camdeboo	Dr Beyers Naudé Local
+ikwezi local	Dr Beyers Naudé Local
+ikwezi municipality	Dr Beyers Naudé Local
+ikwezi	Dr Beyers Naudé Local
+baviaans local	Dr Beyers Naudé Local
+baviaans municipality	Dr Beyers Naudé Local
+baviaans	Dr Beyers Naudé Local
 kouga local	Kouga Local
 kouga municipality	Kouga Local
 kouga	Kouga Local
@@ -121,6 +156,13 @@ sundays river valley municipality	Sundays River Valley Local
 sundays river valley	Sundays River Valley Local
 mangaung metropolitan	Mangaung Metropolitan
 mangaung	Mangaung Metropolitan
+city of bloemfontein	Mangaung Metropolitan
+bloemfontein city	Mangaung Metropolitan
+bloemfontein	Mangaung Metropolitan
+bloomfontein	Mangaung Metropolitan
+naledi local	Mangaung Metropolitan
+naledi municipality	Mangaung Metropolitan
+naledi	Mangaung Metropolitan
 fezile dabi district	Fezile Dabi District
 fezile dabi district municipality	Fezile Dabi District
 fezile dabi	Fezile Dabi District
@@ -163,9 +205,6 @@ dihlabeng	Dihlabeng Local
 maluti-a-phofung local	Maluti-A-Phofung Local
 maluti-a-phofung municipality	Maluti-A-Phofung Local
 maluti-a-phofung	Maluti-A-Phofung Local
-maluti a phofung	Maluti-A-Phofung Local
-maluti phofung	Maluti-A-Phofung Local
-maluti-phofung	Maluti-A-Phofung Local
 mantsopa local	Mantsopa Local
 mantsopa municipality	Mantsopa Local
 mantsopa	Mantsopa Local
@@ -194,6 +233,9 @@ city of ekurhuleni metropolitan	City of Ekurhuleni Metropolitan
 city of ekurhuleni	City of Ekurhuleni Metropolitan
 ekurhuleni city	City of Ekurhuleni Metropolitan
 ekurhuleni	City of Ekurhuleni Metropolitan
+city of germiston	City of Ekurhuleni Metropolitan
+germiston	City of Ekurhuleni Metropolitan
+germiston city	City of Ekurhuleni Metropolitan
 city of johannesburg metropolitan	City of Johannesburg Metropolitan
 city of johannesburg	City of Johannesburg Metropolitan
 johannesburg city	City of Johannesburg Metropolitan
@@ -203,6 +245,18 @@ city of tshwane metropolitan	City of Tshwane Metropolitan
 city of tshwane	City of Tshwane Metropolitan
 tshwane city	City of Tshwane Metropolitan
 tshwane	City of Tshwane Metropolitan
+metsweding district	City of Tshwane Metropolitan
+metsweding district municipality	City of Tshwane Metropolitan
+metsweding	City of Tshwane Metropolitan
+nokeng tsa taemane local	City of Tshwane Metropolitan
+nokeng tsa taemane municipality	City of Tshwane Metropolitan
+nokeng tsa taemane	City of Tshwane Metropolitan
+kungwini local	City of Tshwane Metropolitan
+kungwini municipality	City of Tshwane Metropolitan
+kungwini	City of Tshwane Metropolitan
+pretoria city	City of Tshwane Metropolitan
+city of pretoria	City of Tshwane Metropolitan
+pretoria	City of Tshwane Metropolitan
 sedibeng district	Sedibeng District
 sedibeng district municipality	Sedibeng District
 sedibeng	Sedibeng District
@@ -230,8 +284,17 @@ rand west city local	Rand West City Local
 rand west city municipality	Rand West City Local
 rand west city	Rand West City Local
 rand west	Rand West City Local
+randfontein local	Rand West City Local
+randfontein municipality	Rand West City Local
+randfontein	Rand West City Local
+westonaria local	Rand West City Local
+westonaria municipality	Rand West City Local
+westonaria	Rand West City Local
 ethekwini metropolitan	eThekwini Metropolitan
 ethekwini	eThekwini Metropolitan
+durban city	eThekwini Metropolitan
+city of durban	eThekwini Metropolitan
+durban	eThekwini Metropolitan
 amajuba district	Amajuba District
 amajuba district municipality	Amajuba District
 amajuba	Amajuba District
@@ -247,10 +310,19 @@ newcastle	Newcastle Local
 harry gwala district	Harry Gwala District
 harry gwala district municipality	Harry Gwala District
 harry gwala	Harry Gwala District
+sisonke district	Harry Gwala District
+sisonke district municipality	Harry Gwala District
+sisonke	Harry Gwala District
 dr nkosazana dlamini zuma local	Dr Nkosazana Dlamini Zuma Local
 dr nkosazana dlamini zuma municipality	Dr Nkosazana Dlamini Zuma Local
 dr nkosazana dlamini zuma	Dr Nkosazana Dlamini Zuma Local
 dr. nkosazana dlamini zuma	Dr Nkosazana Dlamini Zuma Local
+ingwe local	Dr Nkosazana Dlamini Zuma Local
+ingwe municipality	Dr Nkosazana Dlamini Zuma Local
+ingwe	Dr Nkosazana Dlamini Zuma Local
+kwa sani local	Dr Nkosazana Dlamini Zuma Local
+kwa sani municipality	Dr Nkosazana Dlamini Zuma Local
+kwa sani	Dr Nkosazana Dlamini Zuma Local
 greater kokstad local	Greater Kokstad Local
 greater kokstad municipality	Greater Kokstad Local
 greater kokstad	Greater Kokstad Local
@@ -278,6 +350,9 @@ ndwedwe	Ndwedwe Local
 king cetshwayo district	King Cetshwayo District
 king cetshwayo district municipality	King Cetshwayo District
 king cetshwayo	King Cetshwayo District
+uthungulu district	King Cetshwayo District
+uthungulu district municipality	King Cetshwayo District
+uthungulu	King Cetshwayo District
 city of umhlathuze local	City of uMhlathuze Local
 city of umhlathuze municipality	City of uMhlathuze Local
 city of umhlathuze	City of uMhlathuze Local
@@ -301,6 +376,12 @@ ugu	Ugu District
 ray nkonyeni local	Ray Nkonyeni Local
 ray nkonyeni municipality	Ray Nkonyeni Local
 ray nkonyeni	Ray Nkonyeni Local
+ezinqoleni local	Ray Nkonyeni Local
+ezinqoleni municipality	Ray Nkonyeni Local
+ezinqoleni	Ray Nkonyeni Local
+hibiscus coast local	Ray Nkonyeni Local
+hibiscus coast municipality	Ray Nkonyeni Local
+hibiscus coast	Ray Nkonyeni Local
 umdoni local	Umdoni Local
 umdoni municipality	Umdoni Local
 umdoni	Umdoni Local
@@ -340,6 +421,18 @@ umkhanyakude	uMkhanyakude District
 big 5 hlabisa local	Big 5 Hlabisa Local
 big 5 hlabisa municipality	Big 5 Hlabisa Local
 big 5 hlabisa	Big 5 Hlabisa Local
+big five hlabisa local	Big 5 Hlabisa Local
+big five hlabisa municipality	Big 5 Hlabisa Local
+big five hlabisa	Big 5 Hlabisa Local
+big 5 false bay local	Big 5 Hlabisa Local
+big 5 false bay municipality	Big 5 Hlabisa Local
+big 5 false bay	Big 5 Hlabisa Local
+big five false bay local	Big 5 Hlabisa Local
+big five false bay municipality	Big 5 Hlabisa Local
+big five false bay	Big 5 Hlabisa Local
+hlabisa local	Big 5 Hlabisa Local
+hlabisa municipality	Big 5 Hlabisa Local
+hlabisa	Big 5 Hlabisa Local
 jozini local	Jozini Local
 jozini municipality	Jozini Local
 jozini	Jozini Local
@@ -370,9 +463,27 @@ uthukela	uThukela District
 alfred duma local	Alfred Duma Local
 alfred duma municipality	Alfred Duma Local
 alfred duma	Alfred Duma Local
+emnambithi/ladysmith local	Alfred Duma Local
+emnambithi/ladysmith municipality	Alfred Duma Local
+emnambithi/ladysmith	Alfred Duma Local
+emnambithi-ladysmith local	Alfred Duma Local
+emnambithi-ladysmith municipality	Alfred Duma Local
+emnambithi-ladysmith	Alfred Duma Local
+emnambithi ladysmith local	Alfred Duma Local
+emnambithi ladysmith municipality	Alfred Duma Local
+emnambithi ladysmith	Alfred Duma Local
+indaka local	Alfred Duma Local
+indaka municipality	Alfred Duma Local
+indaka	Alfred Duma Local
 inkosi langalibalele local	Inkosi Langalibalele Local
 inkosi langalibalele municipality	Inkosi Langalibalele Local
 inkosi langalibalele	Inkosi Langalibalele Local
+umtshezi local	Inkosi Langalibalele Local
+umtshezi municipality	Inkosi Langalibalele Local
+umtshezi	Inkosi Langalibalele Local
+imbabazane local	Inkosi Langalibalele Local
+imbabazane municipality	Inkosi Langalibalele Local
+imbabazane	Inkosi Langalibalele Local
 okhahlamba local	Okhahlamba Local
 okhahlamba municipality	Okhahlamba Local
 okhahlamba	Okhahlamba Local
@@ -403,6 +514,11 @@ blouberg	Blouberg Local
 lepelle-nkumpi local	Lepelle-Nkumpi Local
 lepelle-nkumpi municipality	Lepelle-Nkumpi Local
 lepelle-nkumpi	Lepelle-Nkumpi Local
+lepelle/nkumpi local	Lepelle-Nkumpi Local
+lepelle/nkumpi municipality	Lepelle-Nkumpi Local
+lepelle/nkumpi	Lepelle-Nkumpi Local
+lepelle nkumpi local	Lepelle-Nkumpi Local
+lepelle nkumpi municipality	Lepelle-Nkumpi Local
 lepelle nkumpi	Lepelle-Nkumpi Local
 molemole local	Molemole Local
 molemole municipality	Molemole Local
@@ -441,6 +557,24 @@ ephraim mogale	Ephraim Mogale Local
 fetakgomo tubatse local	Fetakgomo Tubatse Local
 fetakgomo tubatse municipality	Fetakgomo Tubatse Local
 fetakgomo tubatse	Fetakgomo Tubatse Local
+fetakgomo/greater tubatse local	Fetakgomo Tubatse Local
+fetakgomo/greater tubatse municipality	Fetakgomo Tubatse Local
+fetakgomo/greater tubatse	Fetakgomo Tubatse Local
+fetakgomo greater tubatse local	Fetakgomo Tubatse Local
+fetakgomo greater tubatse municipality	Fetakgomo Tubatse Local
+fetakgomo greater tubatse	Fetakgomo Tubatse Local
+fetakgomo-greater tubatse local	Fetakgomo Tubatse Local
+fetakgomo-greater tubatse municipality	Fetakgomo Tubatse Local
+fetakgomo-greater tubatse	Fetakgomo Tubatse Local
+fetakgomo local	Fetakgomo Tubatse Local
+fetakgomo municipality	Fetakgomo Tubatse Local
+fetakgomo	Fetakgomo Tubatse Local
+greater tubatse local	Fetakgomo Tubatse Local
+greater tubatse municipality	Fetakgomo Tubatse Local
+greater tubatse	Fetakgomo Tubatse Local
+tubatse local	Fetakgomo Tubatse Local
+tubatse municipality	Fetakgomo Tubatse Local
+tubatse	Fetakgomo Tubatse Local
 makhuduthamaga local	Makhuduthamaga Local
 makhuduthamaga municipality	Makhuduthamaga Local
 makhuduthamaga	Makhuduthamaga Local
@@ -472,7 +606,18 @@ lephalale	Lephalale Local
 modimolle-mookgophong local	Modimolle-Mookgophong Local
 modimolle-mookgophong municipality	Modimolle-Mookgophong Local
 modimolle-mookgophong	Modimolle-Mookgophong Local
+modimolle mookgophong local	Modimolle-Mookgophong Local
+modimolle mookgophong municipality	Modimolle-Mookgophong Local
 modimolle mookgophong	Modimolle-Mookgophong Local
+modimolle/mookgophong local	Modimolle-Mookgophong Local
+modimolle/mookgophong municipality	Modimolle-Mookgophong Local
+modimolle/mookgophong	Modimolle-Mookgophong Local
+modimolle local	Modimolle-Mookgophong Local
+modimolle municipality	Modimolle-Mookgophong Local
+modimolle	Modimolle-Mookgophong Local
+mookgophong local	Modimolle-Mookgophong Local
+mookgophong municipality	Modimolle-Mookgophong Local
+mookgophong	Modimolle-Mookgophong Local
 mogalakwena local	Mogalakwena Local
 mogalakwena municipality	Mogalakwena Local
 mogalakwena	Mogalakwena Local
@@ -489,7 +634,12 @@ city of mbombela local	City of Mbombela Local
 city of mbombela municipality	City of Mbombela Local
 city of mbombela	City of Mbombela Local
 mbombela city	City of Mbombela Local
+mbombela local	City of Mbombela Local
+mbombela municipality	City of Mbombela Local
 mbombela	City of Mbombela Local
+umjindi local	City of Mbombela Local
+umjindi municipality	City of Mbombela Local
+umjindi	City of Mbombela Local
 nkomazi local	Nkomazi Local
 nkomazi municipality	Nkomazi Local
 nkomazi	Nkomazi Local
@@ -620,6 +770,12 @@ umsobomvu	Umsobomvu Local
 zf mgcawu district	ZF Mgcawu District
 zf mgcawu district municipality	ZF Mgcawu District
 zf mgcawu	ZF Mgcawu District
+zf-mgcawu district	ZF Mgcawu District
+zf-mgcawu district municipality	ZF Mgcawu District
+zf-mgcawu	ZF Mgcawu District
+siyanda district	ZF Mgcawu District
+siyanda district municipality	ZF Mgcawu District
+siyanda	ZF Mgcawu District
 !kheis local	!Kheis Local
 !kheis municipality	!Kheis Local
 kheis municipality	!Kheis Local
@@ -628,6 +784,15 @@ kheis	!Kheis Local
 dawid kruiper local	Dawid Kruiper Local
 dawid kruiper municipality	Dawid Kruiper Local
 dawid kruiper	Dawid Kruiper Local
+mier local	Dawid Kruiper Local
+mier municipality	Dawid Kruiper Local
+mier	Dawid Kruiper Local
+//khara hais local	Dawid Kruiper Local
+//khara hais municipality	Dawid Kruiper Local
+//khara hais	Dawid Kruiper Local
+khara hais local	Dawid Kruiper Local
+khara hais municipality	Dawid Kruiper Local
+khara hais	Dawid Kruiper Local
 kai !garib local	Kai !Garib Local
 kai !garib municipality	Kai !Garib Local
 kai garib municipality	Kai !Garib Local
@@ -669,6 +834,15 @@ matlosana	City of Matlosana Local
 jb marks local	JB Marks Local
 jb marks municipality	JB Marks Local
 jb marks	JB Marks Local
+potchefstroom local	JB Marks Local
+potchefstroom municipality	JB Marks Local
+potchefstroom	JB Marks Local
+ventersdorp local	JB Marks Local
+ventersdorp municipality	JB Marks Local
+ventersdorp	JB Marks Local
+tlokwe local	JB Marks Local
+tlokwe municipality	JB Marks Local
+tlokwe	JB Marks Local
 maquassi hills local	Maquassi Hills Local
 maquassi hills municipality	Maquassi Hills Local
 maquassi hills	Maquassi Hills Local
@@ -682,10 +856,26 @@ greater taung	Greater Taung Local
 kagisano-molopo local	Kagisano-Molopo Local
 kagisano-molopo municipality	Kagisano-Molopo Local
 kagisano-molopo	Kagisano-Molopo Local
+kagisano/molopo local	Kagisano-Molopo Local
+kagisano/molopo municipality	Kagisano-Molopo Local
+kagisano/molopo	Kagisano-Molopo Local
+kagisano molopo local	Kagisano-Molopo Local
+kagisano molopo municipality	Kagisano-Molopo Local
 kagisano molopo	Kagisano-Molopo Local
+kagisano local	Kagisano-Molopo Local
+kagisano municipality	Kagisano-Molopo Local
+kagisano	Kagisano-Molopo Local
+molopo local	Kagisano-Molopo Local
+molopo municipality	Kagisano-Molopo Local
+molopo	Kagisano-Molopo Local
 lekwa-teemane local	Lekwa-Teemane Local
 lekwa-teemane municipality	Lekwa-Teemane Local
 lekwa-teemane	Lekwa-Teemane Local
+lekwa/teemane local	Lekwa-Teemane Local
+lekwa/teemane municipality	Lekwa-Teemane Local
+lekwa/teemane	Lekwa-Teemane Local
+lekwa teemane local	Lekwa-Teemane Local
+lekwa teemane municipality	Lekwa-Teemane Local
 lekwa teemane	Lekwa-Teemane Local
 mamusa local	Mamusa Local
 mamusa municipality	Mamusa Local
@@ -748,6 +938,9 @@ prince albert	Prince Albert Local
 garden route district	Garden Route District
 garden route district municipality	Garden Route District
 garden route	Garden Route District
+eden district	Garden Route District
+eden district municipality	Garden Route District
+eden	Garden Route District
 bitou local	Bitou Local
 bitou municipality	Bitou Local
 bitou	Bitou Local
