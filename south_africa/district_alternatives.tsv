@@ -2,6 +2,7 @@ alt	name
 buffalo city metropolitan	Buffalo City Metropolitan
 buffalo city	Buffalo City Metropolitan
 buffalo	Buffalo City Metropolitan
+east london	Buffalo City Metropolitan
 nelson mandela bay metropolitan	Nelson Mandela Bay Metropolitan
 nelson mandela bay	Nelson Mandela Bay Metropolitan
 port elizabeth metropolitan	Nelson Mandela Bay Metropolitan
@@ -301,6 +302,7 @@ city of johannesburg	City of Johannesburg Metropolitan
 johannesburg city	City of Johannesburg Metropolitan
 johannesburg	City of Johannesburg Metropolitan
 johanesburg	City of Johannesburg Metropolitan
+soweto	City of Johannesburg Metropolitan
 city of tshwane metropolitan	City of Tshwane Metropolitan
 city of tshwane	City of Tshwane Metropolitan
 tshwane city	City of Tshwane Metropolitan
@@ -1044,6 +1046,8 @@ rustenburg local	Rustenburg Local
 rustenburg local municipality	Rustenburg Local
 rustenburg municipality	Rustenburg Local
 rustenburg	Rustenburg Local
+marikana	Rustenburg Local
+rooikoppies	Rustenburg Local
 dr kenneth kaunda district	Dr Kenneth Kaunda District
 dr kenneth kaunda district municipality	Dr Kenneth Kaunda District
 dr kenneth kaunda	Dr Kenneth Kaunda District

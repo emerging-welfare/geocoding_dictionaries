@@ -333,6 +333,7 @@ south sudan	South Sudan
 juba	Juba
 spain	Spain
 madrid	Madrid
+south africa	South Africa
 sri lanka	Sri Lanka
 colombo	Colombo
 sri jayawardenepura kotte	Sri Jayawardenepura Kotte
@@ -345,6 +346,7 @@ stockholm	Stockholm
 switzerland	Switzerland
 bern	Bern
 syria	Syria
+aleppo	Aleppo
 damascus	Damascus
 tajikistan	Tajikistan
 dushanbe	Dushanbe
@@ -386,10 +388,13 @@ u.k	United Kingdom
 england	England
 london	London
 united states of america	United States Of America
-united states	United States Of America
+united states	United States
 usa	United States Of America
 u.s.a.	United States Of America
 u.s.a	United States Of America
+u.s.	United States
+u.s	United States
+us	United States
 america	America
 washington	Washington
 uruguay	Uruguay
@@ -410,3 +415,9 @@ zambia	Zambia
 lusaka	Lusaka
 zimbabwe	Zimbabwe
 harare	Harare
+goma	Goma
+congo	Democratic Republic of Congo
+democratic republic of congo	Democratic Republic of Congo
+xinhua	Xinhua
+california	California
+florida	Florida
