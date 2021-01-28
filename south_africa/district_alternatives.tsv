@@ -126,6 +126,12 @@ gariep	Walter Sisulu Local
 or tambo district	OR Tambo District
 or tambo district municipality	OR Tambo District
 or tambo	OR Tambo District
+o.r. tambo district	OR Tambo District
+o.r. tambo district municipality	OR Tambo District
+o.r. tambo	OR Tambo District
+o.r tambo district	OR Tambo District
+o.r tambo district municipality	OR Tambo District
+o.r tambo	OR Tambo District
 ingquza hill local	Ingquza Hill Local
 ingquza hill local municipality	Ingquza Hill Local
 ingquza hill municipality	Ingquza Hill Local
@@ -184,6 +190,10 @@ koukamma local	Koukamma Local
 koukamma local municipality	Koukamma Local
 koukamma municipality	Koukamma Local
 koukamma	Koukamma Local
+kou-kamma local	Koukamma Local
+kou-kamma local municipality	Koukamma Local
+kou-kamma municipality	Koukamma Local
+kou-kamma	Koukamma Local
 makana local	Makana Local
 makana local municipality	Makana Local
 makana municipality	Makana Local
@@ -297,12 +307,18 @@ ekurhuleni	City of Ekurhuleni Metropolitan
 city of germiston	City of Ekurhuleni Metropolitan
 germiston	City of Ekurhuleni Metropolitan
 germiston city	City of Ekurhuleni Metropolitan
+east rand	City of Ekurhuleni Metropolitan
 city of johannesburg metropolitan	City of Johannesburg Metropolitan
 city of johannesburg	City of Johannesburg Metropolitan
 johannesburg city	City of Johannesburg Metropolitan
 johannesburg	City of Johannesburg Metropolitan
 johanesburg	City of Johannesburg Metropolitan
 soweto	City of Johannesburg Metropolitan
+alexandra	City of Johannesburg Metropolitan
+roodepoort	City of Johannesburg Metropolitan
+braamfontein	City of Johannesburg Metropolitan
+diepsloot	City of Johannesburg Metropolitan
+lenasia	City of Johannesburg Metropolitan
 city of tshwane metropolitan	City of Tshwane Metropolitan
 city of tshwane	City of Tshwane Metropolitan
 tshwane city	City of Tshwane Metropolitan
@@ -339,11 +355,13 @@ midvaal	Midvaal Local
 west rand district	West Rand District
 west rand district municipality	West Rand District
 west rand	West Rand District
+carletonville	West Rand District
 merafong city local	Merafong City Local
 merafong city local municipality	Merafong City Local
 merafong city municipality	Merafong City Local
 merafong city	Merafong City Local
 merafong	Merafong City Local
+khutsong	Merafong City Local
 mogale city local	Mogale City Local
 mogale city local municipality	Mogale City Local
 mogale city municipality	Mogale City Local
@@ -362,11 +380,14 @@ westonaria local	Rand West City Local
 westonaria local municipality	Rand West City Local
 westonaria municipality	Rand West City Local
 westonaria	Rand West City Local
+bekkersdal	Rand West City Local
 ethekwini metropolitan	eThekwini Metropolitan
 ethekwini	eThekwini Metropolitan
 durban city	eThekwini Metropolitan
 city of durban	eThekwini Metropolitan
 durban	eThekwini Metropolitan
+kwamashu	eThekwini Metropolitan
+umlazi	eThekwini Metropolitan
 amajuba district	Amajuba District
 amajuba district municipality	Amajuba District
 amajuba	Amajuba District
@@ -392,6 +413,10 @@ dr nkosazana dlamini zuma local	Dr Nkosazana Dlamini Zuma Local
 dr nkosazana dlamini zuma local municipality	Dr Nkosazana Dlamini Zuma Local
 dr nkosazana dlamini zuma municipality	Dr Nkosazana Dlamini Zuma Local
 dr nkosazana dlamini zuma	Dr Nkosazana Dlamini Zuma Local
+dr nkosazana dlamini-zuma local	Dr Nkosazana Dlamini Zuma Local
+dr nkosazana dlamini-zuma local municipality	Dr Nkosazana Dlamini Zuma Local
+dr nkosazana dlamini-zuma municipality	Dr Nkosazana Dlamini Zuma Local
+dr nkosazana dlamini-zuma	Dr Nkosazana Dlamini Zuma Local
 dr. nkosazana dlamini zuma	Dr Nkosazana Dlamini Zuma Local
 ingwe local	Dr Nkosazana Dlamini Zuma Local
 ingwe local municipality	Dr Nkosazana Dlamini Zuma Local
@@ -435,6 +460,9 @@ ndwedwe	Ndwedwe Local
 king cetshwayo district	King Cetshwayo District
 king cetshwayo district municipality	King Cetshwayo District
 king cetshwayo	King Cetshwayo District
+king cetswayo district	King Cetshwayo District
+king cetswayo district municipality	King Cetshwayo District
+king cetswayo	King Cetshwayo District
 uthungulu district	King Cetshwayo District
 uthungulu district municipality	King Cetshwayo District
 uthungulu	King Cetshwayo District
@@ -462,6 +490,10 @@ umfolozi local	uMfolozi Local
 umfolozi local municipality	uMfolozi Local
 umfolozi municipality	uMfolozi Local
 umfolozi	uMfolozi Local
+mbonambi local	uMfolozi Local
+mbonambi local municipality	uMfolozi Local
+mbonambi municipality	uMfolozi Local
+mbonambi	uMfolozi Local
 umlalazi local	uMlalazi Local
 umlalazi local municipality	uMlalazi Local
 umlalazi municipality	uMlalazi Local
@@ -512,6 +544,7 @@ msunduzi local	Msunduzi Local
 msunduzi local municipality	Msunduzi Local
 msunduzi municipality	Msunduzi Local
 msunduzi	Msunduzi Local
+pietermaritzburg	Msunduzi Local
 richmond local	Richmond Local
 richmond local municipality	Richmond Local
 richmond municipality	Richmond Local
@@ -574,6 +607,10 @@ umsinga local	uMsinga Local
 umsinga local municipality	uMsinga Local
 umsinga municipality	uMsinga Local
 umsinga	uMsinga Local
+msinga local	uMsinga Local
+msinga local municipality	uMsinga Local
+msinga municipality	uMsinga Local
+msinga	uMsinga Local
 umvoti local	Umvoti Local
 umvoti local municipality	Umvoti Local
 umvoti municipality	Umvoti Local
@@ -741,10 +778,12 @@ collins chabane local	Collins Chabane Local
 collins chabane local municipality	Collins Chabane Local
 collins chabane municipality	Collins Chabane Local
 collins chabane	Collins Chabane Local
+malamulele	Collins Chabane Local
 makhado local	Makhado Local
 makhado local municipality	Makhado Local
 makhado municipality	Makhado Local
 makhado	Makhado Local
+vuwani	Makhado Local
 musina local	Musina Local
 musina local municipality	Musina Local
 musina municipality	Musina Local
@@ -812,6 +851,7 @@ mbombela local	City of Mbombela Local
 mbombela local municipality	City of Mbombela Local
 mbombela municipality	City of Mbombela Local
 mbombela	City of Mbombela Local
+nelspruit	City of Mbombela Local
 umjindi local	City of Mbombela Local
 umjindi local municipality	City of Mbombela Local
 umjindi municipality	City of Mbombela Local
@@ -827,10 +867,17 @@ thaba chweu	Thaba Chweu Local
 gert sibande district	Gert Sibande District
 gert sibande district municipality	Gert Sibande District
 gert sibande	Gert Sibande District
+eastvaal district	Gert Sibande District
+eastvaal district municipality	Gert Sibande District
+eastvaal	Gert Sibande District
 chief albert luthuli local	Chief Albert Luthuli Local
 chief albert luthuli local municipality	Chief Albert Luthuli Local
 chief albert luthuli municipality	Chief Albert Luthuli Local
 chief albert luthuli	Chief Albert Luthuli Local
+albert luthuli local	Chief Albert Luthuli Local
+albert luthuli local municipality	Chief Albert Luthuli Local
+albert luthuli municipality	Chief Albert Luthuli Local
+albert luthuli	Chief Albert Luthuli Local
 dipaleseng local	Dipaleseng Local
 dipaleseng local municipality	Dipaleseng Local
 dipaleseng municipality	Dipaleseng Local
@@ -839,6 +886,12 @@ dr pixley ka isaka seme local	Dr Pixley Ka Isaka Seme Local
 dr pixley ka isaka seme local municipality	Dr Pixley Ka Isaka Seme Local
 dr pixley ka isaka seme municipality	Dr Pixley Ka Isaka Seme Local
 dr pixley ka isaka seme	Dr Pixley Ka Isaka Seme Local
+pixley ka isaka seme local	Dr Pixley Ka Isaka Seme Local
+pixley ka isaka seme local municipality	Dr Pixley Ka Isaka Seme Local
+pixley ka isaka seme municipality	Dr Pixley Ka Isaka Seme Local
+pixley ka isaka seme	Dr Pixley Ka Isaka Seme Local
+pixley ka seme local	Dr Pixley Ka Isaka Seme Local
+pixley ka seme local municipality	Dr Pixley Ka Isaka Seme Local
 dr. pixley ka isaka seme	Dr Pixley Ka Isaka Seme Local
 govan mbeki local	Govan Mbeki Local
 govan mbeki local municipality	Govan Mbeki Local
@@ -1030,10 +1083,16 @@ kgetlengrivier local	Kgetlengrivier Local
 kgetlengrivier local municipality	Kgetlengrivier Local
 kgetlengrivier municipality	Kgetlengrivier Local
 kgetlengrivier	Kgetlengrivier Local
+kgetleng river local	Kgetlengrivier Local
+kgetleng river local municipality	Kgetlengrivier Local
+kgetleng river municipality	Kgetlengrivier Local
+kgetleng river	Kgetlengrivier Local
 madibeng local	Madibeng Local
 madibeng local municipality	Madibeng Local
 madibeng municipality	Madibeng Local
 madibeng	Madibeng Local
+brits	Madibeng Local
+wonderkop	Madibeng Local
 moretele local	Moretele Local
 moretele local municipality	Moretele Local
 moretele municipality	Moretele Local
@@ -1048,6 +1107,7 @@ rustenburg municipality	Rustenburg Local
 rustenburg	Rustenburg Local
 marikana	Rustenburg Local
 rooikoppies	Rustenburg Local
+nkaneng	Rustenburg Local
 dr kenneth kaunda district	Dr Kenneth Kaunda District
 dr kenneth kaunda district municipality	Dr Kenneth Kaunda District
 dr kenneth kaunda	Dr Kenneth Kaunda District
@@ -1080,6 +1140,10 @@ tlokwe local	JB Marks Local
 tlokwe local municipality	JB Marks Local
 tlokwe municipality	JB Marks Local
 tlokwe	JB Marks Local
+ventersdorp/tlokwe local	JB Marks Local
+ventersdorp/tlokwe local municipality	JB Marks Local
+ventersdorp/tlokwe municipality	JB Marks Local
+ventersdorp/tlokwe	JB Marks Local
 maquassi hills local	Maquassi Hills Local
 maquassi hills local municipality	Maquassi Hills Local
 maquassi hills municipality	Maquassi Hills Local
@@ -1139,6 +1203,7 @@ ditsobotla local	Ditsobotla Local
 ditsobotla local municipality	Ditsobotla Local
 ditsobotla municipality	Ditsobotla Local
 ditsobotla	Ditsobotla Local
+coligny	Ditsobotla Local
 mahikeng local	Mahikeng Local
 mahikeng local municipality	Mahikeng Local
 mahikeng municipality	Mahikeng Local
@@ -1159,6 +1224,7 @@ city of cape town metropolitan	City of Cape Town Metropolitan
 city of cape town	City of Cape Town Metropolitan
 cape town city	City of Cape Town Metropolitan
 cape town	City of Cape Town Metropolitan
+khayelitsha	City of Cape Town Metropolitan
 cape winelands district	Cape Winelands District
 cape winelands district municipality	Cape Winelands District
 cape winelands	Cape Winelands District
@@ -1166,6 +1232,7 @@ breede valley local	Breede Valley Local
 breede valley local municipality	Breede Valley Local
 breede valley municipality	Breede Valley Local
 breede valley	Breede Valley Local
+de doorns	Breede Valley Local
 drakenstein local	Drakenstein Local
 drakenstein local municipality	Drakenstein Local
 drakenstein municipality	Drakenstein Local

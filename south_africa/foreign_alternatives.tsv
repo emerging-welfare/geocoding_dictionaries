@@ -131,6 +131,7 @@ georgia	Georgia
 tbilisi	Tbilisi
 germany	Germany
 berlin	Berlin
+cologne	Cologne
 ghana	Ghana
 accra	Accra
 greece	Greece
@@ -158,6 +159,8 @@ india	India
 hindu	India
 delhi	New Delhi
 new delhi	New Delhi
+kashmir	Kashmir
+srinagar	Srinagar
 indonesia	Indonesia
 jakarta	Jakarta
 iran	Iran
@@ -167,6 +170,9 @@ baghdad	Baghdad
 ireland	Ireland
 dublin	Dublin
 israel	Israel
+tel aviv	Tel Aviv
+tel-aviv	Tel Aviv
+west bank	West Bank
 jerusalem	Jerusalem
 italy	Italy
 rome	Rome
@@ -255,6 +261,7 @@ managua	Managua
 niger	Niger
 niamey	Niamey
 nigeria	Nigeria
+niger delta	Niger Delta
 abuja	Abuja
 north korea	North Korea
 pyongyang	Pyongyang
@@ -395,8 +402,16 @@ u.s.a	United States Of America
 u.s.	United States
 u.s	United States
 us	United States
+new york	New York
+new york city	New York
+chicago	Chicago
 america	America
 washington	Washington
+north carolina	North Carolina
+south carolina	South Carolina
+wisconsin	Wisconsin
+nevada	Nevada
+los angeles	Los Angeles
 uruguay	Uruguay
 montevideo	Montevideo
 uzbekistan	Uzbekistan
@@ -418,6 +433,9 @@ harare	Harare
 goma	Goma
 congo	Democratic Republic of Congo
 democratic republic of congo	Democratic Republic of Congo
+dr congo	Democratic Republic of Congo
+bukavu	Bukavu
 xinhua	Xinhua
 california	California
 florida	Florida
+hong kong	Hong Kong
