@@ -393,6 +393,7 @@ uk	United Kingdom
 u.k.	United Kingdom
 u.k	United Kingdom
 england	England
+britain	England
 london	London
 united states of america	United States Of America
 united states	United States
@@ -402,15 +403,7 @@ u.s.a	United States Of America
 u.s.	United States
 u.s	United States
 us	United States
-new york	New York
-new york city	New York
-chicago	Chicago
 america	America
-washington	Washington
-north carolina	North Carolina
-south carolina	South Carolina
-wisconsin	Wisconsin
-nevada	Nevada
 los angeles	Los Angeles
 uruguay	Uruguay
 montevideo	Montevideo
@@ -434,8 +427,94 @@ goma	Goma
 congo	Democratic Republic of Congo
 democratic republic of congo	Democratic Republic of Congo
 dr congo	Democratic Republic of Congo
+ituri	Ituri
 bukavu	Bukavu
 xinhua	Xinhua
-california	California
-florida	Florida
 hong kong	Hong Kong
+ivory coast	Ivory Coast
+gaza	Gaza
+alabama	Alabama
+alaska	Alaska
+arizona	Arizona
+arkansas	Arkansas
+california	California
+colorado	Colorado
+connecticut	Connecticut
+delaware	Delaware
+florida	Florida
+georgia	Georgia
+hawaii	Hawaii
+idaho	Idaho
+illinois	Illinois
+indiana	Indiana
+iowa	Iowa
+kansas	Kansas
+kentucky	Kentucky
+louisiana	Louisiana
+maine	Maine
+maryland	Maryland
+massachusetts	Massachusetts
+michigan	Michigan
+minnesota	Minnesota
+mississippi	Mississippi
+missouri	Missouri
+montana	Montana
+nebraska	Nebraska
+nevada	Nevada
+new hampshire	New Hampshire
+new jersey	New Jersey
+new mexico	New Mexico
+new york	New York
+new york city	New York
+north carolina	North Carolina
+north dakota	North Dakota
+ohio	Ohio
+oklahoma	Oklahoma
+oregon	Oregon
+pennsylvania	Pennsylvania
+rhode island	Rhode Island
+south carolina	South Carolina
+south dakota	South Dakota
+tennessee	Tennessee
+texas	Texas
+utah	Utah
+vermont	Vermont
+virginia	Virginia
+washington	Washington
+west virginia	West Virginia
+wisconsin	Wisconsin
+wyoming	Wyoming
+punjab	Punjab
+lichtenburg	Lichtenburg
+cleveland	Cleveland
+geneva	Geneva
+rio	Rio
+taiwan	Taiwan
+mardin	Mardin
+cizre	Cizre
+frankfurt	Frankfurt
+rio de janeiro	Rio de Janeiro
+philadelphia	Philadelphia
+brooklyn	Brooklyn
+kilis	Kilis
+taipei	Taipei
+seattle	Seattle
+haryana	Haryana
+mumbai	Mumbai
+hollywood	Hollywood
+las vegas	Las Vegas
+manhattan	Manhattan
+nusaybin	Nusaybin
+columbia	Columbia
+benghazi	Benghazi
+new orleans	New Orleans
+chicago	Chicago
+hebron	Hebron
+marseille	Marseille
+diyarbakir	Diyarbakir
+scotland	Scotlan
+sydney	Sydney
+baltimore	Baltimore
+zanzibar	Zanzibar
+munich	Munich
+boston	Boston

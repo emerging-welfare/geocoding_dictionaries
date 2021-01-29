@@ -1,9 +1,11 @@
 alt	name
 buffalo city metropolitan	Buffalo City Metropolitan
+buffalo city metropolitan municipality	Buffalo City Metropolitan
 buffalo city	Buffalo City Metropolitan
 buffalo	Buffalo City Metropolitan
 east london	Buffalo City Metropolitan
 nelson mandela bay metropolitan	Nelson Mandela Bay Metropolitan
+nelson mandela bay metropolitan municipality	Nelson Mandela Bay Metropolitan
 nelson mandela bay	Nelson Mandela Bay Metropolitan
 port elizabeth metropolitan	Nelson Mandela Bay Metropolitan
 port elizabeth	Nelson Mandela Bay Metropolitan
@@ -68,6 +70,7 @@ emalahleni local	Emalahleni Local
 emalahleni local municipality	Emalahleni Local
 emalahleni municipality	Emalahleni Local
 emalahleni	Emalahleni Local
+witbank	Emalahleni Local
 engcobo local	Engcobo Local
 engcobo local municipality	Engcobo Local
 engcobo municipality	Engcobo Local
@@ -166,10 +169,15 @@ blue crane route	Blue Crane Route Local
 dr beyers naudé local	Dr Beyers Naudé Local
 dr beyers naudé local municipality	Dr Beyers Naudé Local
 dr beyers naudé municipality	Dr Beyers Naudé Local
-dr beyers naudé	Dr Beyers Naudé Local
-dr. beyers naudé	Dr Beyers Naudé Local
-dr beyers naude	Dr Beyers Naudé Local
-dr. beyers naude	Dr Beyers Naudé Local
+dr beyers naude local	Dr Beyers Naudé Local
+dr beyers naude local municipality	Dr Beyers Naudé Local
+dr beyers naude municipality	Dr Beyers Naudé Local
+beyers naudé local	Dr Beyers Naudé Local
+beyers naudé local municipality	Dr Beyers Naudé Local
+beyers naudé municipality	Dr Beyers Naudé Local
+beyers naude local	Dr Beyers Naudé Local
+beyers naude local municipality	Dr Beyers Naudé Local
+beyers naude municipality	Dr Beyers Naudé Local
 camdeboo local	Dr Beyers Naudé Local
 camdeboo local municipality	Dr Beyers Naudé Local
 camdeboo municipality	Dr Beyers Naudé Local
@@ -207,6 +215,7 @@ sundays river valley local municipality	Sundays River Valley Local
 sundays river valley municipality	Sundays River Valley Local
 sundays river valley	Sundays River Valley Local
 mangaung metropolitan	Mangaung Metropolitan
+mangaung metropolitan municipality	Mangaung Metropolitan
 mangaung	Mangaung Metropolitan
 city of bloemfontein	Mangaung Metropolitan
 bloemfontein city	Mangaung Metropolitan
@@ -216,6 +225,7 @@ naledi local	Mangaung Metropolitan
 naledi local municipality	Mangaung Metropolitan
 naledi municipality	Mangaung Metropolitan
 naledi	Mangaung Metropolitan
+bophelo house	Mangaung Metropolitan
 fezile dabi district	Fezile Dabi District
 fezile dabi district municipality	Fezile Dabi District
 fezile dabi	Fezile Dabi District
@@ -227,6 +237,7 @@ metsimaholo local	Metsimaholo Local
 metsimaholo local municipality	Metsimaholo Local
 metsimaholo municipality	Metsimaholo Local
 metsimaholo	Metsimaholo Local
+sasolburg	Metsimaholo Local
 moqhaka local	Moqhaka Local
 moqhaka local municipality	Moqhaka Local
 moqhaka municipality	Moqhaka Local
@@ -246,6 +257,8 @@ matjhabeng local	Matjhabeng Local
 matjhabeng local municipality	Matjhabeng Local
 matjhabeng municipality	Matjhabeng Local
 matjhabeng	Matjhabeng Local
+hennenman	Matjhabeng Local
+phomolong	Matjhabeng Local
 nala local	Nala Local
 nala local municipality	Nala Local
 nala municipality	Nala Local
@@ -301,6 +314,8 @@ mohokare local municipality	Mohokare Local
 mohokare municipality	Mohokare Local
 mohokare	Mohokare Local
 city of ekurhuleni metropolitan	City of Ekurhuleni Metropolitan
+city of ekurhuleni metropolitan municipality	City of Ekurhuleni Metropolitan
+ekurhuleni metropolitan municipality	City of Ekurhuleni Metropolitan
 city of ekurhuleni	City of Ekurhuleni Metropolitan
 ekurhuleni city	City of Ekurhuleni Metropolitan
 ekurhuleni	City of Ekurhuleni Metropolitan
@@ -309,6 +324,8 @@ germiston	City of Ekurhuleni Metropolitan
 germiston city	City of Ekurhuleni Metropolitan
 east rand	City of Ekurhuleni Metropolitan
 city of johannesburg metropolitan	City of Johannesburg Metropolitan
+city of johannesburg metropolitan municipality	City of Johannesburg Metropolitan
+johannesburg metropolitan municipality	City of Johannesburg Metropolitan
 city of johannesburg	City of Johannesburg Metropolitan
 johannesburg city	City of Johannesburg Metropolitan
 johannesburg	City of Johannesburg Metropolitan
@@ -319,7 +336,10 @@ roodepoort	City of Johannesburg Metropolitan
 braamfontein	City of Johannesburg Metropolitan
 diepsloot	City of Johannesburg Metropolitan
 lenasia	City of Johannesburg Metropolitan
+midrand	City of Johannesburg Metropolitan
 city of tshwane metropolitan	City of Tshwane Metropolitan
+city of tshwane metropolitan municipality	City of Tshwane Metropolitan
+tshwane metropolitan municipality	City of Tshwane Metropolitan
 city of tshwane	City of Tshwane Metropolitan
 tshwane city	City of Tshwane Metropolitan
 tshwane	City of Tshwane Metropolitan
@@ -337,6 +357,12 @@ kungwini	City of Tshwane Metropolitan
 pretoria city	City of Tshwane Metropolitan
 city of pretoria	City of Tshwane Metropolitan
 pretoria	City of Tshwane Metropolitan
+soshanguve	City of Tshwane Metropolitan
+mamelodi	City of Tshwane Metropolitan
+marabastad	City of Tshwane Metropolitan
+nellmapius	City of Tshwane Metropolitan
+garankuwa	City of Tshwane Metropolitan
+ga-rankuwa	City of Tshwane Metropolitan
 sedibeng district	Sedibeng District
 sedibeng district municipality	Sedibeng District
 sedibeng	Sedibeng District
@@ -344,6 +370,8 @@ emfuleni local	Emfuleni Local
 emfuleni local municipality	Emfuleni Local
 emfuleni municipality	Emfuleni Local
 emfuleni	Emfuleni Local
+sebokeng	Emfuleni Local
+boiketlong	Emfuleni Local
 lesedi local	Lesedi Local
 lesedi local municipality	Lesedi Local
 lesedi municipality	Lesedi Local
@@ -382,6 +410,7 @@ westonaria municipality	Rand West City Local
 westonaria	Rand West City Local
 bekkersdal	Rand West City Local
 ethekwini metropolitan	eThekwini Metropolitan
+ethekwini metropolitan municipality	eThekwini Metropolitan
 ethekwini	eThekwini Metropolitan
 durban city	eThekwini Metropolitan
 city of durban	eThekwini Metropolitan
@@ -540,6 +569,7 @@ mpofana local	Mpofana Local
 mpofana local municipality	Mpofana Local
 mpofana municipality	Mpofana Local
 mpofana	Mpofana Local
+mooi river	Mpofana Local
 msunduzi local	Msunduzi Local
 msunduzi local municipality	Msunduzi Local
 msunduzi municipality	Msunduzi Local
@@ -634,6 +664,14 @@ emnambithi ladysmith local	Alfred Duma Local
 emnambithi ladysmith local municipality	Alfred Duma Local
 emnambithi ladysmith municipality	Alfred Duma Local
 emnambithi ladysmith	Alfred Duma Local
+emnambithi local	Alfred Duma Local
+emnambithi local municipality	Alfred Duma Local
+emnambithi municipality	Alfred Duma Local
+emnambithi	Alfred Duma Local
+ladysmith local	Alfred Duma Local
+ladysmith local municipality	Alfred Duma Local
+ladysmith municipality	Alfred Duma Local
+ladysmith	Alfred Duma Local
 indaka local	Alfred Duma Local
 indaka local municipality	Alfred Duma Local
 indaka municipality	Alfred Duma Local
@@ -724,6 +762,7 @@ greater tzaneen local	Greater Tzaneen Local
 greater tzaneen local municipality	Greater Tzaneen Local
 greater tzaneen municipality	Greater Tzaneen Local
 greater tzaneen	Greater Tzaneen Local
+relela	Greater Tzaneen Local
 maruleng local	Maruleng Local
 maruleng local municipality	Maruleng Local
 maruleng municipality	Maruleng Local
@@ -804,6 +843,8 @@ lephalale local	Lephalale Local
 lephalale local municipality	Lephalale Local
 lephalale municipality	Lephalale Local
 lephalale	Lephalale Local
+medupi power station	Lephalale Local
+medupi	Lephalale Local
 modimolle-mookgophong local	Modimolle-Mookgophong Local
 modimolle-mookgophong local municipality	Modimolle-Mookgophong Local
 modimolle-mookgophong municipality	Modimolle-Mookgophong Local
@@ -1093,6 +1134,7 @@ madibeng municipality	Madibeng Local
 madibeng	Madibeng Local
 brits	Madibeng Local
 wonderkop	Madibeng Local
+mothutlung	Madibeng Local
 moretele local	Moretele Local
 moretele local municipality	Moretele Local
 moretele municipality	Moretele Local
@@ -1105,9 +1147,12 @@ rustenburg local	Rustenburg Local
 rustenburg local municipality	Rustenburg Local
 rustenburg municipality	Rustenburg Local
 rustenburg	Rustenburg Local
+khuseleka	Rustenburg Local
 marikana	Rustenburg Local
 rooikoppies	Rustenburg Local
 nkaneng	Rustenburg Local
+boitekong	Rustenburg Local
+rustenburg civic centre	Rustenburg Local
 dr kenneth kaunda district	Dr Kenneth Kaunda District
 dr kenneth kaunda district municipality	Dr Kenneth Kaunda District
 dr kenneth kaunda	Dr Kenneth Kaunda District
@@ -1152,6 +1197,10 @@ dr ruth segomotsi mompati district	Dr Ruth Segomotsi Mompati District
 dr ruth segomotsi mompati district municipality	Dr Ruth Segomotsi Mompati District
 dr ruth segomotsi mompati	Dr Ruth Segomotsi Mompati District
 dr. ruth segomotsi mompati	Dr Ruth Segomotsi Mompati District
+bophirima district	Dr Ruth Segomotsi Mompati District
+bophirima district municipality	Dr Ruth Segomotsi Mompati District
+bophirima	Dr Ruth Segomotsi Mompati District
+bophirima	Dr Ruth Segomotsi Mompati District
 greater taung local	Greater Taung Local
 greater taung local municipality	Greater Taung Local
 greater taung municipality	Greater Taung Local
@@ -1188,6 +1237,8 @@ lekwa teemane local	Lekwa-Teemane Local
 lekwa teemane local municipality	Lekwa-Teemane Local
 lekwa teemane municipality	Lekwa-Teemane Local
 lekwa teemane	Lekwa-Teemane Local
+boitumelong	Lekwa-Teemane Local
+bloemhof	Lekwa-Teemane Local
 mamusa local	Mamusa Local
 mamusa local municipality	Mamusa Local
 mamusa municipality	Mamusa Local
@@ -1208,6 +1259,14 @@ mahikeng local	Mahikeng Local
 mahikeng local municipality	Mahikeng Local
 mahikeng municipality	Mahikeng Local
 mahikeng	Mahikeng Local
+mafeking local	Mahikeng Local
+mafeking local municipality	Mahikeng Local
+mafeking municipality	Mahikeng Local
+mafeking	Mahikeng Local
+mafikeng local	Mahikeng Local
+mafikeng local municipality	Mahikeng Local
+mafikeng municipality	Mahikeng Local
+mafikeng	Mahikeng Local
 ramotshere moiloa local	Ramotshere Moiloa Local
 ramotshere moiloa local municipality	Ramotshere Moiloa Local
 ramotshere moiloa municipality	Ramotshere Moiloa Local
@@ -1221,10 +1280,15 @@ tswaing local municipality	Tswaing Local
 tswaing municipality	Tswaing Local
 tswaing	Tswaing Local
 city of cape town metropolitan	City of Cape Town Metropolitan
+city of cape town metropolitan municipality	City of Cape Town Metropolitan
+cape town metropolitan municipality	City of Cape Town Metropolitan
 city of cape town	City of Cape Town Metropolitan
 cape town city	City of Cape Town Metropolitan
 cape town	City of Cape Town Metropolitan
 khayelitsha	City of Cape Town Metropolitan
+mitchells plain	City of Cape Town Metropolitan
+mitchell's plain	City of Cape Town Metropolitan
+mitchell 's plain	City of Cape Town Metropolitan
 cape winelands district	Cape Winelands District
 cape winelands district municipality	Cape Winelands District
 cape winelands	Cape Winelands District
@@ -1233,6 +1297,11 @@ breede valley local municipality	Breede Valley Local
 breede valley municipality	Breede Valley Local
 breede valley	Breede Valley Local
 de doorns	Breede Valley Local
+doorns	Breede Valley Local
+hex river valley	Breede Valley Local
+hex river pass	Breede Valley Local
+touws river	Breede Valley Local
+touws	Breede Valley Local
 drakenstein local	Drakenstein Local
 drakenstein local municipality	Drakenstein Local
 drakenstein municipality	Drakenstein Local
