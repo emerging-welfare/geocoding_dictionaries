@@ -1,0 +1,948 @@
+alt	name
+afghanistan	Afghanistan
+afeganistão	Afghanistan
+afeganistáo	Afghanistan
+kabul	Kabul
+cabul	Kabul
+albania	Albania
+tirana	Tirana
+algeria	Algeria
+algiers	Algiers
+argel	Algiers
+andorra	Andorra
+portland	Portland
+trípoli	Tripoli
+andorra la vella	Andorra La Vella
+angola	Angola
+luanda	Luanda
+antigua & barbuda	Antigua & Barbuda
+saint john's	Saint John's
+saint johns	Saint John's
+argentina	Argentina
+buenos aires	Buenos Aires
+buenos	Buenos Aires
+armenia	Armenia
+yerevan	Yerevan
+australia	Australia
+canberra	Canberra
+austria	Austria
+vienna	Vienna
+azerbaijan	Azerbaijan
+baku	Baku
+bahamas	Bahamas
+nassau	Nassau
+bahrain	Bahrain
+manama	Manama
+bangladesh	Bangladesh
+dhaka	Dhaka
+barbados	Barbados
+bridgetown	Bridgetown
+belarus	Belarus
+minsk	Minsk
+belgium	Belgium
+brussels	Brussels
+bruxelas	Brussels
+belize	Belize
+belmopan	Belmopan
+benin	Benin
+porto-novo	Porto-Novo
+bhutan	Bhutan
+thimphu	Thimphu
+bolivia	Bolivia
+la paz	La Paz
+sucre	Sucre
+bosnia & herzegovina	Bosnia & Herzegovina
+bosnia&herzegovina	Bosnia & Herzegovina
+sarajevo	Sarajevo
+botswana	Botswana
+gaborone	Gaborone
+brunei	Brunei
+bandar seri begawan	Bandar Seri Begawan
+bulgaria	Bulgaria
+sofia	Sofia
+burkina faso	Burkina Faso
+ouagadougou	Ouagadougou
+burundi	Burundi
+bujumbura	Bujumbura
+cabo verde	Cabo Verde
+praia	Praia
+cambodia	Cambodia
+phnom penh	Phnom Penh
+cameroon	Cameroon
+yaounde	Yaounde
+canada	Canada
+ottawa	Ottawa
+central african republic	Central African Republic
+bangui	Bangui
+chad	Chad
+n'djamena	N'Djamena
+ndjamena	N'Djamena
+chile	Chile
+santiago	Santiago
+china	China
+lhasa	Lhasa
+beijing	Beijing
+pequim	Beijing
+colombia	Colombia
+bogotá	Bogotá
+bogota	Bogotá
+comoros	Comoros
+moroni	Moroni
+kinshasa	Kinshasa
+brazzaville	Brazzaville
+costa rica	Costa Rica
+san jose	San Jose
+yamoussoukro	Yamoussoukro
+croatia	Croatia
+zagreb	Zagreb
+cuba	Cuba
+havana	Havana
+cyprus	Cyprus
+nicosia	Nicosia
+czech republic	Czech Republic
+czechia	Czech Republic
+prague	Prague
+denmark	Denmark
+copenhagen	Copenhagen
+djibouti	Djibouti
+dominica	Dominica
+roseau	Roseau
+dominican republic	Dominican Republic
+santo domingo	Santo Domingo
+ecuador	Ecuador
+quito	Quito
+egypt	Egypt
+cairo	Cairo
+el salvador	El Salvador
+san salvador	San Salvador
+equatorial guinea	Equatorial Guinea
+malabo	Malabo
+eritrea	Eritrea
+asmara	Asmara
+estonia	Estonia
+tallinn	Tallinn
+eswatini	Eswatini
+swaziland	Swaziland
+mbabane	Mbabane
+ethiopia	Ethiopia
+addis ababa	Addis Ababa
+fiji	Fiji
+suva	Suva
+finland	Finland
+helsinki	Helsinki
+france	France
+paris	Paris
+gabon	Gabon
+libreville	Libreville
+gambia	Gambia
+banjul	Banjul
+georgia	Georgia
+tbilisi	Tbilisi
+germany	Germany
+berlin	Berlin
+berlim	Berlin
+cologne	Cologne
+ghana	Ghana
+accra	Accra
+greece	Greece
+athens	Athens
+atenas	Athens
+grenada	Grenada
+saint george's	Saint George's
+saint georges	Saint George's
+guatemala	Guatemala
+guatemala city	Guatemala City
+guinea	Guinea
+conakry	Conakry
+guinea-bissau	Guinea-Bissau
+bissau	Bissau
+guyana	Guyana
+georgetown	Georgetown
+haiti	Haiti
+port-au-prince	Port-Au-Prince
+honduras	Honduras
+tegucigalpa	Tegucigalpa
+hungary	Hungary
+budapest	Budapest
+budapeste	Budapest
+iceland	Iceland
+reykjavik	Reykjavik
+india	India
+índia	India
+hindu	India
+delhi	New Delhi
+new delhi	New Delhi
+nova délhi	New Delhi
+nova délhi	New Delhi
+nova delhi	New Delhi
+kashmir	Kashmir
+caxemira	Kashmir
+baquba	Baquba
+srinagar	Srinagar
+indonesia	Indonesia
+jakarta	Jakarta
+jacarta	Jakarta
+iran	Iran
+tehran	Tehran
+teerã	Tehran
+teera	Tehran
+teerã	Tehran
+iraq	Iraq
+baghdad	Baghdad
+bagdá	Baghdad
+mossul	Mossul
+mosul	Mossul
+ireland	Ireland
+dublin	Dublin
+israel	Israel
+tel aviv	Tel Aviv
+tel-aviv	Tel Aviv
+tel	Tel Aviv
+west bank	West Bank
+jerusalem	Jerusalem
+Jerusalém	Jerusalem
+italy	Italy
+rome	Rome
+roma	Rome
+jamaica	Jamaica
+kingston	Kingston
+japan	Japan
+tokyo	Tokyo
+tóquio	Tokyo
+tóquio	Tokyo
+toquio	Tokyo
+jordan	Jordan
+amman	Amman
+amã	Amman
+kazakhstan	Kazakhstan
+nur-sultan	Nur-Sultan
+kenya	Kenya
+nairobi	Nairobi
+nairóbi	Nairobi
+kiribati	Kiribati
+south tarawa	South Tarawa
+kosovo	Kosovo
+pristina	Pristina
+kuwait	Kuwait
+kuwait city	Kuwait City
+kyrgyzstan	Kyrgyzstan
+bishkek	Bishkek
+laos	Laos
+vientiane	Vientiane
+latvia	Latvia
+riga	Riga
+lebanon	Lebanon
+beirut	Beirut
+beirute	Beirut
+lesotho	Lesotho
+maseru	Maseru
+liberia	Liberia
+monrovia	Monrovia
+libya	Libya
+tripoli	Tripoli
+liechtenstein	Liechtenstein
+vaduz	Vaduz
+lithuania	Lithuania
+vilnius	Vilnius
+luxembourg	Luxembourg
+madagascar	Madagascar
+antananarivo	Antananarivo
+malawi	Malawi
+lilongwe	Lilongwe
+malaysia	Malaysia
+kuala lumpur	Kuala Lumpur
+maldives	Maldives
+male	Male
+mali	Mali
+bamako	Bamako
+malta	Malta
+valletta	Valletta
+marshall	Marshall
+islands	Islands
+majuro	Majuro
+mauritania	Mauritania
+nouakchott	Nouakchott
+mauritius	Mauritius
+port louis	Port Louis
+mexico	Mexico
+mexico city	Mexico City
+cidade do méxico	Mexico City
+cidade do mexico	Mexico City
+cidade do méxico	Mexico City
+moldova	Moldova
+chisinau	Chisinau
+monaco	Monaco
+mongolia	Mongolia
+ulaanbaatar	Ulaanbaatar
+montenegro	Montenegro
+podgorica	Podgorica
+morocco	Morocco
+rabat	Rabat
+mozambique	Mozambique
+maputo	Maputo
+myanmar	Myanmar
+mianmar	Myanmar
+nay pyi taw	Nay Pyi Taw
+namibia	Namibia
+windhoek	Windhoek
+nauru	Nauru
+yaren district	Yaren District
+nepal	Nepal
+kathmandu	Kathmandu
+katmandu	Kathmandu
+netherlands	Netherlands
+amsterdam	Amsterdam
+new zealand	New Zealand
+wellington	Wellington
+nicaragua	Nicaragua
+managua	Managua
+niger	Niger
+niamey	Niamey
+nigeria	Nigeria
+niger delta	Niger Delta
+abuja	Abuja
+north korea	North Korea
+pyongyang	Pyongyang
+north macedonia	North Macedonia
+skopje	Skopje
+norway	Norway
+oslo	Oslo
+oman	Oman
+muscat	Muscat
+pakistan	Pakistan
+paquistão	Pakistan
+karachi	Karachi
+islamabad	Islamabad
+palau	Palau
+ngerulmud	Ngerulmud
+palestine	Palestine
+east jerusalem	East Jerusalem
+panama	Panama
+panama city	Panama City
+papua new guinea	Papua New Guinea
+port moresby	Port Moresby
+paraguay	Paraguay
+asunción	Asunción
+peru	Peru
+lima	Lima
+philippines	Philippines
+manila	Manila
+poland	Poland
+warsaw	Warsaw
+portugal	Portugal
+lisbon	Lisbon
+lisboa	Lisbon
+qatar	Qatar
+doha	Doha
+romania	Romania
+bucharest	Bucharest
+russia	Russia
+moscow	Moscow
+moscou	Moscow
+rwanda	Rwanda
+kigali	Kigali
+saint kitts & nevis	Saint Kitts & Nevis
+saint kitts&nevis	Saint Kitts & Nevis
+basseterre	Basseterre
+saint lucia	Saint Lucia
+castries	Castries
+saint vincent & the grenadines	Saint Vincent & The Grenadines
+saint vincent&the grenadines	Saint Vincent & The Grenadines
+kingstown	Kingstown
+samoa	Samoa
+apia	Apia
+san marino	San Marino
+são tomé & príncipe	São Tomé & Príncipe
+são tomé&príncipe	São Tomé & Príncipe
+sao tome & príncipe	São Tomé & Príncipe
+são tomé	São Tomé
+sao tome	São Tomé
+saudi arabia	Saudi Arabia
+riyadh	Riyadh
+senegal	Senegal
+dakar	Dakar
+serbia	Serbia
+belgrade	Belgrade
+belgrado	Belgrade
+kerbala	Kerbala
+manchester	Manchester
+glasgow	Glasgow
+seychelles	Seychelles
+victoria	Victoria
+sierra leone	Sierra Leone
+freetown	Freetown
+singapore	Singapore
+slovakia	Slovakia
+bratislava	Bratislava
+slovenia	Slovenia
+ljubljana	Ljubljana
+solomon islands	Solomon Islands
+honiara	Honiara
+somalia	Somalia
+mogadishu	Mogadishu
+mogadiscio	Mogadishu
+mogadíscio	Mogadishu
+south korea	South Korea
+seoul	Seoul
+seul	Seoul
+south sudan	South Sudan
+juba	Juba
+spain	Spain
+madrid	Madrid
+madri	Madrid
+south africa	South Africa
+sri lanka	Sri Lanka
+colombo	Colombo
+sri jayawardenepura kotte	Sri Jayawardenepura Kotte
+sudan	Sudan
+khartoum	Khartoum
+suriname	Suriname
+paramaribo	Paramaribo
+sweden	Sweden
+stockholm	Stockholm
+estocolmo	Stockholm
+switzerland	Switzerland
+bern	Bern
+syria	Syria
+aleppo	Aleppo
+damascus	Damascus
+damasco	Damascus
+tarija	Tarija
+tajikistan	Tajikistan
+dushanbe	Dushanbe
+tanzania	Tanzania
+dodoma	Dodoma
+thailand	Thailand
+bangkok	Bangkok
+bangcoc	Bangkok
+timor-leste	Timor-Leste
+dili	Dili
+togo	Togo
+lomé	Lomé
+lome	Lomé
+tonga	Tonga
+nukuʻalofa	NukuʻAlofa
+nukualofa	NukuʻAlofa
+trinidad & tobago	Trinidad & Tobago
+trinidad&tobago	Trinidad & Tobago
+port of spain	Port Of Spain
+tunisia	Tunisia
+tunis	Tunis
+turkey	Turkey
+ankara	Ankara
+istanbul	Istanbul
+istambul	Istanbul
+turkmenistan	Turkmenistan
+ashgabat	Ashgabat
+tuvalu	Tuvalu
+funafuti	Funafuti
+uganda	Uganda
+kampala	Kampala
+ukraine	Ukraine
+kiev	Kiev
+united arab emirates	United Arab Emirates
+uae	Uae
+abu dhabi	Abu Dhabi
+united kingdom	United Kingdom
+uk	United Kingdom
+u.k.	United Kingdom
+u.k	United Kingdom
+england	England
+britain	England
+london	London
+londres	London
+united states of america	United States Of America
+united states	United States
+usa	United States Of America
+u.s.a.	United States Of America
+u.s.a	United States Of America
+u.s.	United States
+u.s	United States
+us	United States
+america	America
+charlottesville	Charlottesville
+los angeles	Los Angeles
+uruguay	Uruguay
+montevideo	Montevideo
+uzbekistan	Uzbekistan
+tashkent	Tashkent
+vanuatu	Vanuatu
+port vila	Port Vila
+vatican city	Vatican City
+venezuela	Venezuela
+caracas	Caracas
+vietnam	Vietnam
+hanoi	Hanoi
+yemen	Yemen
+sana'a	Sana'A
+sanaa	Sana'A
+zambia	Zambia
+lusaka	Lusaka
+zimbabwe	Zimbabwe
+harare	Harare
+goma	Goma
+congo	Democratic Republic of Congo
+democratic republic of congo	Democratic Republic of Congo
+dr congo	Democratic Republic of Congo
+ituri	Ituri
+bukavu	Bukavu
+xinhua	Xinhua
+hong kong	Hong Kong
+hong	Hong Kong
+ivory coast	Ivory Coast
+gaza	Gaza
+alabama	Alabama
+alaska	Alaska
+arizona	Arizona
+arkansas	Arkansas
+california	California
+colorado	Colorado
+connecticut	Connecticut
+delaware	Delaware
+florida	Florida
+hawaii	Hawaii
+idaho	Idaho
+illinois	Illinois
+indiana	Indiana
+iowa	Iowa
+kansas	Kansas
+kentucky	Kentucky
+louisiana	Louisiana
+maine	Maine
+maryland	Maryland
+massachusetts	Massachusetts
+michigan	Michigan
+minnesota	Minnesota
+mississippi	Mississippi
+missouri	Missouri
+montana	Montana
+nebraska	Nebraska
+nevada	Nevada
+new hampshire	New Hampshire
+new jersey	New Jersey
+new mexico	New Mexico
+new york	New York
+nova york	New York
+new york city	New York
+north carolina	North Carolina
+north dakota	North Dakota
+ohio	Ohio
+oklahoma	Oklahoma
+oregon	Oregon
+pennsylvania	Pennsylvania
+rhode island	Rhode Island
+south carolina	South Carolina
+south dakota	South Dakota
+tennessee	Tennessee
+texas	Texas
+utah	Utah
+vermont	Vermont
+virginia	Virginia
+washington	Washington
+west virginia	West Virginia
+wisconsin	Wisconsin
+wyoming	Wyoming
+punjab	Punjab
+lichtenburg	Lichtenburg
+cleveland	Cleveland
+geneva	Geneva
+taiwan	Taiwan
+mardin	Mardin
+cizre	Cizre
+frankfurt	Frankfurt
+philadelphia	Philadelphia
+brooklyn	Brooklyn
+kilis	Kilis
+taipei	Taipei
+seattle	Seattle
+haryana	Haryana
+mumbai	Mumbai
+hollywood	Hollywood
+las vegas	Las Vegas
+manhattan	Manhattan
+nusaybin	Nusaybin
+columbia	Columbia
+benghazi	Benghazi
+new orleans	New Orleans
+chicago	Chicago
+hebron	Hebron
+marseille	Marseille
+marselha	Marseille
+diyarbakir	Diyarbakir
+kirkuk	Kirkuk
+scotland	Scotlan
+sydney	Sydney
+baltimore	Baltimore
+bali	Bali
+tibete	Tibet
+zanzibar	Zanzibar
+munich	Munich
+boston	Boston
+bloemfontein	Bloemfontein
+cape town	Cape Town
+pretoria	Pretoria
+albânia	Albania
+áfrica do sul	South Africa
+alemanha	Germany
+arábia saudita	Saudi Arabia
+argélia	Algeria
+armênia	Armenia
+austrália	Australia
+áustria	Austria
+bélgica	Belgium
+bolívia	Bolivia
+bósnia-herzegóvina	Bosnia and Herzegovina
+bulgária	Bulgaria
+colômbia	Colombia
+comores	Comoros
+coréia do norte	North Korea
+coréia do sul	South Korea
+costa do marfim	Ivory Coast
+croácia	Croatia
+dinamarca	Denmark
+eritreia	Eritrea
+eslováquia	Slovakia
+eslovênia	Slovenia
+espanha	Spain
+estônia	Estonia
+etiópia	Ethiopia
+federação russa	Russian Federation
+filipinas	Philippines
+finlândia	Finland
+frança	France
+gâmbia	Gambia
+geórgia	Georgia
+grécia	Greece
+guiana	Guyana
+guiné-bissau	Guinea-Bissau
+guiné-equatorial	Equatorial Guinea
+holanda	Holland
+hungria	Hungary
+ilhas marshall	Marshall Islands
+ilhas salomão	Solomon Islands
+indonésia	Indonesia
+irlanda	Ireland
+islândia	Iceland
+itália	Italy
+jordânia	Jordan
+letônia	Latvia
+libéria	Liberia
+líbia	Libya
+lituânia	Lithuania
+macedônia	Macedonia
+malásia	Malaysia
+maldivas	Maldives
+mauritânia	Mauritania
+micronésia	Micronesia
+mongólia	Mongolia
+moldávia	Moldova
+namíbia	Namibia
+nicarágua	Nicaragua
+nigéria	Nigeria
+noruega	Norway
+nova zelândia	New Zealand
+papua nova guiné	Papua New Guinea
+polônia	Poland
+república centro-africana	Central African Republic
+república dominicana	Dominican Republic
+república tcheca	Czech Republic
+romênia	Romania
+seicheles	Seychelles
+serra leoa	Sierra Leone
+sérvia	Serbia
+síria	Syria
+somália	Somalia
+suazilândia	Swaziland
+suécia	Sweden
+suíça	Switzerland
+tailândia	Thailand
+tanzânia	Tanzania
+tunísia	Tunisia
+turquia	Turkey
+ucrânia	Ukraine
+zâmbia	Zambia
+azerbaijão	Azerbaijan
+benim	Benin
+burquina faso	Burkina Faso
+butão	Bhutan
+camboja	Cambodia
+catar	Qatar
+canadá	Canada
+cazaquistão	Kazakhstan
+chade	Chad
+congo	Congo
+djibuti	Djibouti
+egito	Egypt
+emirados árabes unidos	United Arab Emirates
+equador	Ecuador
+estados unidos	United States of America
+gabão	Gabon
+iémen	Yemen
+irã	Iran
+iraque	Iraq
+japão	Japan
+lesoto	Lesotho
+líbano	Lebanon
+malauí	Malawi
+méxico	Mexico
+níger	Niger
+panamá	Panama
+paraguai	Paraguay
+quênia	Kenya
+reino unido	United Kingdom
+sudão	Sudan
+tajiquistão	Tajikistan
+timor leste	East Timor
+turcomenistão	Turkmenistan
+uruguai	Uruguay
+uzbequistão	Uzbekistan
+vaticano	Vatican
+vietnã	Vietnam
+zimbábue	Zimbabwe
+antígua e barbuda	Antigua and Barbuda
+botsuana	Botswana
+cabo verde	Cape Verde
+camarões	Cameroon
+chipre	Cyprus
+cingapura	Singapore
+africa do sul	South Africa
+arabia saudita	Saudi Arabia
+argelia	Algeria
+belgica	Belgium
+bosnia-herzegovina	Bosnia and Herzegovina
+coreia do norte	North Korea
+coreia do sul	South Korea
+croacia	Croatia
+eslovaquia	Slovakia
+eslovenia	Slovenia
+etiopia	Ethiopia
+federacao russa	Russian Federation
+finlandia	Finland
+franca	France
+grecia	Greece
+guine-bissau	Guinea-Bissau
+guine-equatorial	Equatorial Guinea
+ilhas salomao	Solomon Islands
+islandia	Iceland
+italia	Italy
+jordania	Jordan
+letonia	Latvia
+libia	Libya
+lituania	Lithuania
+macedonia	Macedonia
+malasia	Malaysia
+micronesia	Micronesia
+moldavia	Moldova
+nova zelandia	New Zealand
+papua nova guine	Papua New Guinea
+polonia	Poland
+republica centro-africana	Central African Republic
+republica dominicana	Dominican Republic
+republica tcheca	Czech Republic
+romenia	Romania
+servia	Serbia
+siria	Syria
+suazilandia	Swaziland
+suecia	Sweden
+suica	Switzerland
+tailandia	Thailand
+ucrania	Ukraine
+afeganistao	Afghanistan
+azerbaijao	Azerbaijan
+butao	Bhutan
+cazaquistao	Kazakhstan
+emirados arabes unidos	United Arab Emirates
+gabao	Gabon
+iemen	Yemen
+ira	Iran
+japao	Japan
+libano	Lebanon
+malaui	Malawi
+paquistao	Pakistan
+quenia	Kenya
+sudao	Sudan
+tajiquistao	Tajikistan
+turcomenistao	Turkmenistan
+uzbequistao	Uzbekistan
+vietna	Vietnam
+zimbabue	Zimbabwe
+antigua e barbuda	Antigua and Barbuda
+camaroes	Cameroon
+albânia	Albania
+áfrica do sul	South Africa
+arábia saudita	Saudi Arabia
+argélia	Algeria
+armênia	Armenia
+austrália	Australia
+áustria	Austria
+bélgica	Belgium
+bolívia	Bolivia
+bósnia-herzegóvina	Bosnia and Herzegovina
+bulgária	Bulgaria
+colômbia	Colombia
+coréia do norte	North Korea
+coréia do sul	South Korea
+croácia	Croatia
+eslováquia	Slovakia
+eslovênia	Slovenia
+estônia	Estonia
+etiópia	Ethiopia
+federação russa	Russian Federation
+finlândia	Finland
+frança	France
+gâmbia	Gambia
+geórgia	Georgia
+grécia	Greece
+guiné-bissau	Guinea-Bissau
+guiné-equatorial	Equatorial Guinea
+ilhas salomão	Solomon Islands
+índia	India
+indonésia	Indonesia
+islândia	Iceland
+itália	Italy
+jordânia	Jordan
+letônia	Latvia
+libéria	Liberia
+líbia	Libya
+lituânia	Lithuania
+macedônia	Macedonia
+malásia	Malaysia
+mauritânia	Mauritania
+micronésia	Micronesia
+mongólia	Mongolia
+moldávia	Moldova
+namíbia	Namibia
+nicarágua	Nicaragua
+nigéria	Nigeria
+nova zelândia	New Zealand
+papua nova guiné	Papua New Guinea
+polônia	Poland
+república centro-africana	Central African Republic
+república dominicana	Dominican Republic
+república tcheca	Czech Republic
+romênia	Romania
+sérvia	Serbia
+síria	Syria
+somália	Somalia
+suazilândia	Swaziland
+suécia	Sweden
+suíça	Switzerland
+tailândia	Thailand
+tanzânia	Tanzania
+tunísia	Tunisia
+ucrânia	Ukraine
+zâmbia	Zambia
+afeganistão	Afghanistan
+azerbaijão	Azerbaijan
+butão	Bhutan
+canadá	Canada
+cazaquistão	Kazakhstan
+emirados árabes unidos	United Arab Emirates
+gabão	Gabon
+iémen	Yemen
+irã	Iran
+japão	Japan
+líbano	Lebanon
+malauí	Malawi
+méxico	Mexico
+níger	Niger
+panamá	Panama
+paquistão	Pakistan
+quênia	Kenya
+sudão	Sudan
+tajiquistão	Tajikistan
+turcomenistão	Turkmenistan
+uzbequistão	Uzbekistan
+vietnã	Vietnam
+zimbábue	Zimbabwe
+antígua e barbuda	Antigua and Barbuda
+camarões	Cameroon
+kandahar	Kandahar
+pando	Pando
+minneapolis	Minneapolis
+samarra	Samarra
+basra	Basra
+cochabamba	Cochabamba
+rawalpindi	Rawalpindi
+lahore	Lahore
+ramadi	Ramadi
+peshawar	Peshawar
+najaf	Najaf
+helmand	Helmand
+porto príncipe	Port-au-Prince
+ramallah	Ramallah
+darfur	Darfur
+faluja	Al-Fallujah
+díli	Dili
+boa vista	Boa Vista
+nablus	Nablus
+cali	Cali
+diyala	Diyala
+quetta	Quetta
+xinjiang	Xinjiang
+oaxaca	Oaxaca
+milão	Milan
+milao	Milan
+miláo	Milan
+anbar	Anbar
+cambrils	Cambrils
+dujail	Dujail
+cartum	Khartoum
+tikrit	Tikrit
+el alto	El Alto
+gualeguaychú	Gualeguaychú
+gualeguaychu	Gualeguaychú
+gualeguaychú	Gualeguaychú
+catalunha	Catalonia
+haifa	Haifa
+córdoba	Cordoba
+cordoba	Cordoba
+parkland	Parkland
+kenosha	Kenosha
+medellín	Medellin
+medellin	Medellin
+beni	Beni
+belfast	Belfast
+assam	Assam
+são francisco	San Francisco
+sao francisco	San Francisco
+antioquia	Antioch
+sadr	Sadr
+gujarat	Gujarat
+arauca	Arauca
+chuquisaca	Chuquisaca
+timor	Timor
+rangun	Yangon
+rangum	Yangon
+rangoon	Yangon
+jenin	Jenin
+hamburgo	Hamburg
+yala	Yala
+nice	Nice
+khost	Khost
+miami	Miami
+atlanta	Atlanta
+ghazni	Ghazni
+gênova	Genoa
+genova	Genoa
+casablanca	Casablanca
+trípoli	Tripoli
+bogotá	Bogotá
+bagdá	Baghdad
+Jerusalém	Jerusalem
+amã	Amman
+nairóbi	Nairobi
+asunción	Asunción
+são tomé & príncipe	São Tomé & Príncipe
+são tomé&príncipe	São Tomé & Príncipe
+sao tome & príncipe	São Tomé & Príncipe
+são tomé	São Tomé
+mogadíscio	Mogadishu
+lomé	Lomé
+porto príncipe	Port-au-Prince
+díli	Dili
+milão	Milan
+córdoba	Cordoba
+medellín	Medellin
+são francisco	San Francisco
+gênova	Genoa
