@@ -1,0 +1,109 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Buenos Aires,Buenos Aires,-34.5997,-58.3819,Argentina,AR,ARG,Buenos Aires,primary,16216000.0,1032717330
+San Miguel de Tucumán,San Miguel de Tucuman,-26.8167,-65.2167,Argentina,AR,ARG,Tucumán,admin,605767.0,1032233996
+Mar del Plata,Mar del Plata,-38.0,-57.55,Argentina,AR,ARG,Buenos Aires,minor,593337.0,1032456103
+San Juan,San Juan,-31.5375,-68.5364,Argentina,AR,ARG,San Juan,admin,471389.0,1032869625
+Santiago del Estero,Santiago del Estero,-27.7844,-64.2669,Argentina,AR,ARG,Santiago del Estero,admin,252192.0,1032492280
+Paraná,Parana,-31.7444,-60.5175,Argentina,AR,ARG,Entre Ríos,admin,247863.0,1032266693
+González Catán,Gonzalez Catan,-34.7708,-58.6464,Argentina,AR,ARG,Buenos Aires,,238067.0,1032883563
+Banfield,Banfield,-34.75,-58.3833,Argentina,AR,ARG,Buenos Aires,,223898.0,1032997685
+Isidro Casanova,Isidro Casanova,-34.7,-58.5833,Argentina,AR,ARG,Buenos Aires,,190696.0,1032715964
+La Rioja,La Rioja,-29.4131,-66.8558,Argentina,AR,ARG,La Rioja,admin,180995.0,1032864257
+José María Ezeiza,Jose Maria Ezeiza,-34.8333,-58.5167,Argentina,AR,ARG,Buenos Aires,minor,160219.0,1032337881
+San Nicolás de los Arroyos,San Nicolas de los Arroyos,-33.3333,-60.2167,Argentina,AR,ARG,Buenos Aires,minor,160000.0,1032067887
+Catamarca,Catamarca,-28.4686,-65.7792,Argentina,AR,ARG,Catamarca,admin,159139.0,1032260908
+Rafael Castillo,Rafael Castillo,-34.7167,-58.6167,Argentina,AR,ARG,Buenos Aires,,147965.0,1032812310
+Concordia,Concordia,-31.3922,-58.0169,Argentina,AR,ARG,Entre Ríos,minor,149450.0,1032923957
+San Justo,San Justo,-34.6833,-58.55,Argentina,AR,ARG,Buenos Aires,minor,136604.0,1032899295
+Temperley,Temperley,-34.7667,-58.3833,Argentina,AR,ARG,Buenos Aires,,121451.0,1032183944
+Ramos Mejía,Ramos Mejia,-34.65,-58.5667,Argentina,AR,ARG,Buenos Aires,,120346.0,1032425368
+Mendoza,Mendoza,-32.8833,-68.8333,Argentina,AR,ARG,Mendoza,admin,114822.0,1032433516
+Bernal,Bernal,-34.7,-58.2833,Argentina,AR,ARG,Buenos Aires,,109914.0,1032030395
+Gualeguaychú,Gualeguaychu,-33.0078,-58.5111,Argentina,AR,ARG,Entre Ríos,minor,109461.0,1032523704
+Morón,Moron,-34.65,-58.6167,Argentina,AR,ARG,Buenos Aires,minor,99066.0,1032773254
+La Banda,La Banda,-27.7333,-64.25,Argentina,AR,ARG,Santiago del Estero,minor,106441.0,1032317566
+Villa Luzuriaga,Villa Luzuriaga,-34.6667,-58.5833,Argentina,AR,ARG,Buenos Aires,,94403.0,1032092344
+Caseros,Caseros,-34.6167,-58.5333,Argentina,AR,ARG,Buenos Aires,minor,95785.0,1032500630
+Burzaco,Burzaco,-34.8167,-58.3667,Argentina,AR,ARG,Buenos Aires,,98859.0,1032073218
+Ciudad General Belgrano,Ciudad General Belgrano,-34.7261,-58.5289,Argentina,AR,ARG,Buenos Aires,,92957.0,1032336348
+San Francisco Solano,San Francisco Solano,-34.7667,-58.3167,Argentina,AR,ARG,Buenos Aires,,91322.0,1032776804
+Río Gallegos,Rio Gallegos,-51.6333,-69.2333,Argentina,AR,ARG,Santa Cruz,admin,95796.0,1032471024
+Monte Chingolo,Monte Chingolo,-34.7333,-58.35,Argentina,AR,ARG,Buenos Aires,,85060.0,1032641177
+Remedios de Escalada,Remedios de Escalada,-34.7167,-58.4,Argentina,AR,ARG,Buenos Aires,,81465.0,1032150292
+Ezpeleta,Ezpeleta,-34.7517,-58.2344,Argentina,AR,ARG,Buenos Aires,,79557.0,1032462589
+Villa Celina,Villa Celina,-34.7006,-58.4825,Argentina,AR,ARG,Buenos Aires,,78699.0,1032320584
+Lomas del Mirador,Lomas del Mirador,-34.6667,-58.5297,Argentina,AR,ARG,Buenos Aires,,71479.0,1032639381
+Wilde,Wilde,-34.7,-58.3167,Argentina,AR,ARG,Buenos Aires,,65881.0,1032256650
+Villa Domínico,Villa Dominico,-34.6917,-58.3333,Argentina,AR,ARG,Buenos Aires,,62315.0,1032866743
+Los Polvorines,Los Polvorines,-34.5,-58.7,Argentina,AR,ARG,Buenos Aires,minor,60867.0,1032236823
+Rafael Calzada,Rafael Calzada,-34.7833,-58.3667,Argentina,AR,ARG,Buenos Aires,,56419.0,1032898708
+Longchamps,Longchamps,-34.8596,-58.387,Argentina,AR,ARG,Buenos Aires,,47622.0,1032203390
+Villa Alsina,Villa Alsina,-34.6667,-58.4167,Argentina,AR,ARG,Buenos Aires,,41155.0,1032506308
+José Mármol,Jose Marmol,-34.7833,-58.3667,Argentina,AR,ARG,Buenos Aires,,41109.0,1032126414
+Haedo,Haedo,-34.65,-58.6,Argentina,AR,ARG,Buenos Aires,,37745.0,1032803323
+Munro,Munro,-34.5333,-58.5167,Argentina,AR,ARG,Buenos Aires,,35844.0,1032318811
+Dock Sur,Dock Sur,-34.6417,-58.3478,Argentina,AR,ARG,Buenos Aires,,35897.0,1032579921
+Villa Adelina,Villa Adelina,-34.5175,-58.5475,Argentina,AR,ARG,Buenos Aires,,35307.0,1032929712
+Adrogue,Adrogue,-34.8,-58.3833,Argentina,AR,ARG,Buenos Aires,,28265.0,1032827397
+Tapiales,Tapiales,-34.7058,-58.5047,Argentina,AR,ARG,Buenos Aires,,23586.0,1032831289
+Don Bosco,Don Bosco,-34.7,-58.2833,Argentina,AR,ARG,Buenos Aires,,20876.0,1032701626
+Villa Sarmiento,Villa Sarmiento,-34.6333,-58.5667,Argentina,AR,ARG,Buenos Aires,,17481.0,1032961945
+Aldo Bonzi,Aldo Bonzi,-34.7083,-58.5181,Argentina,AR,ARG,Buenos Aires,,18175.0,1032281187
+Gobernador Gálvez,Gobernador Galvez,-33.0251,-60.6337,Argentina,AR,ARG,Santa Fe,,80769.0,1032739359
+Concepción del Uruguay,Concepcion del Uruguay,-32.4833,-58.2333,Argentina,AR,ARG,Entre Ríos,minor,72528.0,1032999059
+Sarandí,Sarandi,-34.6833,-58.3333,Argentina,AR,ARG,Buenos Aires,,60752.0,1032993271
+Punta Alta,Punta Alta,-38.88,-62.075,Argentina,AR,ARG,Buenos Aires,minor,58315.0,1032629961
+Cruz del Eje,Cruz del Eje,-30.7333,-64.8,Argentina,AR,ARG,Córdoba,minor,52172.0,1032976495
+Caleta Olivia,Caleta Olivia,-46.4333,-67.5333,Argentina,AR,ARG,Santa Cruz,,51733.0,1032563209
+El Talar de Pacheco,El Talar de Pacheco,-34.4719,-58.655,Argentina,AR,ARG,Buenos Aires,,50426.0,1032391611
+Villaguay,Villaguay,-31.85,-59.0167,Argentina,AR,ARG,Entre Ríos,minor,49445.0,1032112502
+La Reja,La Reja,-34.6394,-58.8283,Argentina,AR,ARG,Buenos Aires,,47839.0,1032013959
+Chajarí,Chajari,-30.7667,-57.9833,Argentina,AR,ARG,Entre Ríos,,45848.0,1032147348
+Gualeguay,Gualeguay,-33.15,-59.3167,Argentina,AR,ARG,Entre Ríos,minor,43009.0,1032077195
+Nueve de Julio,Nueve de Julio,-35.45,-60.8833,Argentina,AR,ARG,Buenos Aires,minor,36494.0,1032287957
+Cutral-Có,Cutral-Co,-38.9333,-69.2333,Argentina,AR,ARG,Neuquén,,35465.0,1032070013
+Victoria,Victoria,-32.6167,-60.1667,Argentina,AR,ARG,Entre Ríos,minor,30623.0,1032557014
+San Martín de los Andes,San Martin de los Andes,-40.1667,-71.35,Argentina,AR,ARG,Neuquén,minor,27956.0,1032807074
+San Justo,San Justo,-30.7833,-60.5833,Argentina,AR,ARG,Santa Fe,minor,21624.0,1032734419
+El Calafate,El Calafate,-50.3395,-72.2649,Argentina,AR,ARG,Santa Cruz,minor,21132.0,1032210475
+Pico Truncado,Pico Truncado,-46.8,-67.9667,Argentina,AR,ARG,Santa Cruz,,20889.0,1032509324
+General Martín Miguel de Güemes,General Martin Miguel de Guemes,-24.6667,-65.05,Argentina,AR,ARG,Salta,minor,19828.0,1032716507
+Federación,Federacion,-30.9833,-57.9167,Argentina,AR,ARG,Entre Ríos,minor,16658.0,1032860100
+Villa del Rosario,Villa del Rosario,-31.5833,-63.5333,Argentina,AR,ARG,Córdoba,minor,15394.0,1032540940
+Villa Paranacito,Villa Paranacito,-33.7,-58.6833,Argentina,AR,ARG,Entre Ríos,minor,15321.0,1032597939
+Fray Luis A. Beltrán,Fray Luis A. Beltran,-32.7833,-60.7333,Argentina,AR,ARG,Santa Fe,,15176.0,1032928868
+Puerto Deseado,Puerto Deseado,-47.75,-65.9167,Argentina,AR,ARG,Santa Cruz,minor,14183.0,1032537209
+Añatuya,Anatuya,-28.4667,-62.8333,Argentina,AR,ARG,Santiago del Estero,minor,14133.0,1032511298
+Mar de Ajó,Mar de Ajo,-36.7162,-56.6766,Argentina,AR,ARG,Buenos Aires,,13610.0,1032066406
+Frías,Frias,-28.6496,-65.15,Argentina,AR,ARG,Santiago del Estero,minor,13594.0,1032077058
+Puerto San Martín,Puerto San Martin,-32.7167,-60.7333,Argentina,AR,ARG,Santa Fe,,13243.0,1032928261
+Rosario del Tala,Rosario del Tala,-32.3008,-59.1389,Argentina,AR,ARG,Entre Ríos,minor,12801.0,1032485062
+San Salvador,San Salvador,-31.6167,-58.5,Argentina,AR,ARG,Entre Ríos,minor,12733.0,1032064102
+Junín de los Andes,Junin de los Andes,-39.9506,-71.0694,Argentina,AR,ARG,Neuquén,minor,12621.0,1032993092
+Río Colorado,Rio Colorado,-38.9908,-64.0958,Argentina,AR,ARG,La Pampa,,11733.0,1032592194
+Monte Quemado,Monte Quemado,-25.8072,-62.8278,Argentina,AR,ARG,Santiago del Estero,minor,11387.0,1032834102
+Capilla del Monte,Capilla del Monte,-30.85,-64.5167,Argentina,AR,ARG,Córdoba,,11181.0,1032258122
+Villa La Angostura,Villa La Angostura,-40.7616,-71.6448,Argentina,AR,ARG,Neuquén,minor,11063.0,1032303492
+Yacimiento Río Turbio,Yacimiento Rio Turbio,-51.5361,-72.3361,Argentina,AR,ARG,Santa Cruz,,8814.0,1032704902
+Jesús Nazareno,Jesus Nazareno,-32.9111,-68.79,Argentina,AR,ARG,Mendoza,,6875.0,1032795161
+San Julián,San Julian,-49.306999999999995,-67.7298,Argentina,AR,ARG,Santa Cruz,minor,7894.0,1032464702
+Carhué,Carhue,-37.1667,-62.7333,Argentina,AR,ARG,Buenos Aires,minor,7190.0,1032595269
+General Fernández Oro,General Fernandez Oro,-38.95,-67.9167,Argentina,AR,ARG,Río Negro,,6772.0,1032534261
+Comandante Luis Piedra Buena,Comandante Luis Piedra Buena,-49.983000000000004,-68.91,Argentina,AR,ARG,Santa Cruz,,6405.0,1032946044
+Ingeniero Jacobacci,Ingeniero Jacobacci,-41.3,-69.5833,Argentina,AR,ARG,Río Negro,,6261.0,1032402027
+Ingeniero Luis A. Huergo,Ingeniero Luis A. Huergo,-39.0833,-67.2333,Argentina,AR,ARG,Río Negro,,6227.0,1032873580
+Veintiocho de Noviembre,Veintiocho de Noviembre,-51.583999999999996,-72.2143,Argentina,AR,ARG,Santa Cruz,,6145.0,1032715340
+Chepes,Chepes,-31.35,-66.6,Argentina,AR,ARG,La Rioja,minor,6020.0,1032137147
+General Conesa,General Conesa,-40.1,-64.4333,Argentina,AR,ARG,Río Negro,minor,5484.0,1032658385
+San Antonio de los Cobres,San Antonio de los Cobres,-24.2256,-66.3192,Argentina,AR,ARG,Salta,minor,5482.0,1032191344
+Perito Moreno,Perito Moreno,-46.59,-70.9297,Argentina,AR,ARG,Santa Cruz,minor,4617.0,1032891854
+Gobernador Gregores,Gobernador Gregores,-48.7509,-70.2485,Argentina,AR,ARG,Santa Cruz,minor,4497.0,1032720049
+Pampa del Infierno,Pampa del Infierno,-26.5167,-61.1667,Argentina,AR,ARG,Chaco,minor,2921.0,1032896072
+Chumbicha,Chumbicha,-28.8666,-66.2333,Argentina,AR,ARG,Catamarca,minor,2572.0,1032994295
+Trancas,Trancas,-26.2308,-65.2781,Argentina,AR,ARG,Tucumán,minor,1599.0,1032418123
+Rodeo,Rodeo,-30.2156,-69.14,Argentina,AR,ARG,San Juan,minor,701.0,1032937217
+Pedro Luro,Pedro Luro,-39.5,-62.6833,Argentina,AR,ARG,Buenos Aires,,9494.0,1032549913
+Darregueira,Darregueira,-37.6996,-63.1666,Argentina,AR,ARG,Buenos Aires,,3412.0,1032968004
+Villalonga,Villalonga,-39.8829,-62.5833,Argentina,AR,ARG,Buenos Aires,,2838.0,1032282782
+Uspallata,Uspallata,-32.5931,-69.346,Argentina,AR,ARG,Mendoza,,2390.0,1032547934
+Los Blancos,Los Blancos,-23.5996,-62.6,Argentina,AR,ARG,Salta,,1145.0,1032336288

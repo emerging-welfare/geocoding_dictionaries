@@ -18,9 +18,8 @@ luanda	Luanda
 antigua & barbuda	Antigua & Barbuda
 saint john's	Saint John's
 saint johns	Saint John's
-argentina	Argentina
-buenos aires	Buenos Aires
-buenos	Buenos Aires
+brasil	Brazil
+brazil	Brazil
 armenia	Armenia
 yerevan	Yerevan
 australia	Australia
@@ -78,7 +77,6 @@ chad	Chad
 n'djamena	N'Djamena
 ndjamena	N'Djamena
 chile	Chile
-santiago	Santiago
 china	China
 lhasa	Lhasa
 beijing	Beijing
@@ -91,7 +89,6 @@ moroni	Moroni
 kinshasa	Kinshasa
 brazzaville	Brazzaville
 costa rica	Costa Rica
-san jose	San Jose
 yamoussoukro	Yamoussoukro
 croatia	Croatia
 zagreb	Zagreb
@@ -108,13 +105,11 @@ djibouti	Djibouti
 dominica	Dominica
 roseau	Roseau
 dominican republic	Dominican Republic
-santo domingo	Santo Domingo
 ecuador	Ecuador
 quito	Quito
 egypt	Egypt
 cairo	Cairo
 el salvador	El Salvador
-san salvador	San Salvador
 equatorial guinea	Equatorial Guinea
 malabo	Malabo
 eritrea	Eritrea
@@ -323,7 +318,6 @@ papua new guinea	Papua New Guinea
 port moresby	Port Moresby
 paraguay	Paraguay
 asunción	Asunción
-peru	Peru
 lima	Lima
 philippines	Philippines
 manila	Manila
@@ -368,7 +362,6 @@ kerbala	Kerbala
 manchester	Manchester
 glasgow	Glasgow
 seychelles	Seychelles
-victoria	Victoria
 sierra leone	Sierra Leone
 freetown	Freetown
 singapore	Singapore
@@ -450,7 +443,6 @@ u.k	United Kingdom
 england	England
 britain	England
 london	London
-londres	London
 united states of america	United States Of America
 united states	United States
 usa	United States Of America
@@ -493,7 +485,6 @@ ivory coast	Ivory Coast
 gaza	Gaza
 alabama	Alabama
 alaska	Alaska
-arizona	Arizona
 arkansas	Arkansas
 california	California
 colorado	Colorado
@@ -537,8 +528,6 @@ tennessee	Tennessee
 texas	Texas
 utah	Utah
 vermont	Vermont
-virginia	Virginia
-washington	Washington
 west virginia	West Virginia
 wisconsin	Wisconsin
 wyoming	Wyoming
@@ -889,14 +878,8 @@ cambrils	Cambrils
 dujail	Dujail
 cartum	Khartoum
 tikrit	Tikrit
-el alto	El Alto
-gualeguaychú	Gualeguaychú
-gualeguaychu	Gualeguaychú
-gualeguaychú	Gualeguaychú
 catalunha	Catalonia
 haifa	Haifa
-córdoba	Cordoba
-cordoba	Cordoba
 parkland	Parkland
 kenosha	Kenosha
 medellín	Medellin
@@ -904,8 +887,6 @@ medellin	Medellin
 beni	Beni
 belfast	Belfast
 assam	Assam
-são francisco	San Francisco
-sao francisco	San Francisco
 antioquia	Antioch
 sadr	Sadr
 gujarat	Gujarat
@@ -917,7 +898,6 @@ rangum	Yangon
 rangoon	Yangon
 jenin	Jenin
 hamburgo	Hamburg
-yala	Yala
 nice	Nice
 khost	Khost
 miami	Miami
@@ -942,644 +922,461 @@ lomé	Lomé
 porto príncipe	Port-au-Prince
 díli	Dili
 milão	Milan
-córdoba	Cordoba
 medellín	Medellin
-são francisco	San Francisco
 gênova	Genoa
-jerusalém	jerusalém
-homs	homs
-bancoc	bancoc
-ancara	ancara
-deraa	deraa
-candahar	candahar
-nova déli	nova déli
-hama	hama
-fallujah	fallujah
-beslan	beslan
-riad	riad
-toulouse	toulouse
-newtown	newtown
-iêmen	iêmen
-karbala	karbala
-donetsk	donetsk
-túnis	túnis
-urumqi	urumqi
-tchetchênia	tchetchênia
-daguestão	daguestão
-mogadício	mogadício
-jammu	jammu
-quirguistão	quirguistão
-dallas	dallas
-lockerbie	lockerbie
-país basco	país basco
-bahrein	bahrein
-johannesburgo	johannesburgo
-sadr city	sadr city
-rio grande do	rio grande do
-cisjordânia	cisjordânia
-montevidéu	montevidéu
-jalalabad	jalalabad
-ciudad juárez	ciudad juárez
-orlando	orlando
-copenhague	copenhague
-munique	munique
-bilbao	bilbao
-utoeya	utoeya
-netanya	netanya
-escócia	escócia
-misrata	misrata
-grozny	grozny
-christchurch	christchurch
-kuait	kuait
-pensilvânia	pensilvânia
-praga	praga
-são petersburgo	são petersburgo
-rússia	rússia
-eldorado	eldorado
-kunduz	kunduz
-monterrey	monterrey
-hadera	hadera
-stockwell	stockwell
-bombaim	bombaim
-birmingham	birmingham
-tucson	tucson
-ossétia	ossétia
-colônia	colônia
-tamaulipas	tamaulipas
-maiduguri	maiduguri
-tulkarem	tulkarem
-abidjã	abidjã
-karrada	karrada
-lyon	lyon
-idlib	idlib
-bagdã¡	bagdã¡
-inglaterra	inglaterra
-idleb	idleb
-utoya	utoya
-estrasburgo	estrasburgo
-guayaquil	guayaquil
-xangai	xangai
-latakia	latakia
-amsterdã	amsterdã
-inguchétia	inguchétia
-arábia	arábia
-bogotã¡	bogotã¡
-carajás	carajás
-viena	viena
-herat	herat
-jos	jos
-baaquba	baaquba
-dacca	dacca
-kufa	kufa
-brooklin	brooklin
-kaduna	kaduna
-charleston	charleston
-nápoles	nápoles
-guerrero	guerrero
-kano	kano
-monróvia	monróvia
-oruro	oruro
-toronto	toronto
-albina	albina
-oakland	oakland
-cáucaso	cáucaso
-taiz	taiz
-denver	denver
-florença	florença
-yangun	yangun
-miraflores	miraflores
-ahmedabad	ahmedabad
-aden	aden
-cauca	cauca
-ny	ny
-kuta	kuta
-lugansk	lugansk
-caquetá	caquetá
-tahrir	tahrir
-genebra	genebra
-zona verde	zona verde
-waziristão	waziristão
-campos elíseos	campos elíseos
-chiapas	chiapas
-calcutá	calcutá
-nova zelã¢ndia	nova zelã¢ndia
-palermo	palermo
-columbine	columbine
-dresden	dresden
-sichuan	sichuan
-littleton	littleton
-kfar	kfar
-tottenham	tottenham
-áfrica	áfrica
-concepción	concepción
-erfurt	erfurt
-abidjan	abidjan
-bordeaux	bordeaux
-varsóvia	varsóvia
-flã3rida	flã3rida
-el paso	el paso
-pittsburgh	pittsburgh
-nassiriah	nassiriah
-barrios altos	barrios altos
-gotemburgo	gotemburgo
-uruzgan	uruzgan
-houla	houla
-oklahoma city	oklahoma city
-guantánamo	guantánamo
-melbourne	melbourne
-pedro juan caballero	pedro juan caballero
-buffalo	buffalo
-québec	québec
-narathiwat	narathiwat
-maracaibo	maracaibo
-falluja	falluja
-grozni	grozni
-áden	áden
-pattani	pattani
-sderot	sderot
-ruanda	ruanda
-chihuahua	chihuahua
-baiji	baiji
-abu	abu
-zurique	zurique
-salônica	salônica
-irbil	irbil
-chibok	chibok
-mahmudiya	mahmudiya
-iguala	iguala
-viana	viana
-campala	campala
-meca	meca
-beiji	beiji
-rocha	rocha
-zahedan	zahedan
-mindanao	mindanao
-teerã£	teerã£
-erez	erez
-san diego	san diego
-itã¡lia	itã¡lia
-calais	calais
-khalis	khalis
-eua	eua
-karradah	karradah
-detroit	detroit
-montauban	montauban
-brega	brega
-amara	amara
-queens	queens
-veracruz	veracruz
-grã-bretanha	grã-bretanha
-port said	port said
-sirte	sirte
-durban	durban
-valencia	valencia
-taipé	taipé
-afula	afula
-san sebastián	san sebastián
-nariño	nariño
-potosí	potosí
-deir	deir
-khanaqin	khanaqin
-lille	lille
-farah	farah
-taji	taji
-mar del plata	mar del plata
-tetovo	tetovo
-edimburgo	edimburgo
-slaviansk	slaviansk
-arequipa	arequipa
-sidi bouzid	sidi bouzid
-bristol	bristol
-san pedro sula	san pedro sula
-multan	multan
-irã£	irã£
-mazar-e-sharif	mazar-e-sharif
-borno	borno
-michoacán	michoacán
-san bernardino	san bernardino
-hyderabad	hyderabad
-turim	turim
-eilat	eilat
-sevilha	sevilha
-zamboanga	zamboanga
-tal afar	tal afar
-salta	salta
-zabul	zabul
-barranquilla	barranquilla
-carolina do	carolina do
-califã3rnia	califã3rnia
-al anbar	al anbar
-montreal	montreal
-entre ríos	entre ríos
-rastan	rastan
-zinjibar	zinjibar
-omagh	omagh
-cobija	cobija
-sousse	sousse
-chacao	chacao
-neiva	neiva
-houston	houston
-volgogrado	volgogrado
-rafah	rafah
-jerusalã©m	jerusalã©m
-santa cruz de la sierra	santa cruz de la sierra
-chapare	chapare
-bolonha	bolonha
-hillah	hillah
-acapulco	acapulco
-manágua	manágua
-kauhajoki	kauhajoki
-cidade do cabo	cidade do cabo
-kharkiv	kharkiv
-táchira	táchira
-nova jersey	nova jersey
-douma	douma
-mazar-i-sharif	mazar-i-sharif
-ciudad del este	ciudad del este
-huila	huila
-rãossia	rãossia
-la plata	la plata
-moçambique	moçambique
-mitrovica	mitrovica
-kobani	kobani
-santander	santander
-barajas	barajas
-uvalde	uvalde
-coréia	coréia
-charsadda	charsadda
-hangu	hangu
-taez	taez
-burgos	burgos
-andijan	andijan
-beersheba	beersheba
-bailey	bailey
-ayotzinapa	ayotzinapa
-baluchistão	baluchistão
-nuevo león	nuevo león
-mashhad	mashhad
-mombasa	mombasa
-uttar pradesh	uttar pradesh
-mérida	mérida
-raqqa	raqqa
-virgã­nia	virgã­nia
-curuguaty	curuguaty
-abyan	abyan
-khyber	khyber
-amã©rica	amã©rica
-valência	valência
-damaturu	damaturu
-jolo	jolo
-khobar	khobar
-pamplona	pamplona
-nova bagdá	nova bagdá
-carolina do sul	carolina do sul
-quebec	quebec
-nanterre	nanterre
-jabaliya	jabaliya
-yobe	yobe
-luxor	luxor
-montgomery	montgomery
-recoleta	recoleta
-rennes	rennes
-bamaco	bamaco
-córsega	córsega
-memphis	memphis
-sidon	sidon
-sharm	sharm
-abu ghraib	abu ghraib
-canadã¡	canadã¡
-paquistã£o	paquistã£o
-kizlyar	kizlyar
-davao	davao
-haditha	haditha
-ain	ain
-eldorado dos carajás	eldorado dos carajás
-cartagena	cartagena
-mandalay	mandalay
-kashgar	kashgar
-stuttgart	stuttgart
-iskandariya	iskandariya
-cordovil	cordovil
-bangalore	bangalore
-hakkari	hakkari
-soweto	soweto
-rishon	rishon
-zaragoza	zaragoza
-naltchik	naltchik
-pretória	pretória
-jujuy	jujuy
-mariupol	mariupol
-helsinque	helsinque
-rishon letzion	rishon letzion
-goinaves	goinaves
-davos	davos
-londonderry	londonderry
-dayton	dayton
-puno	puno
-latifiya	latifiya
-milwaukee	milwaukee
-srebrenica	srebrenica
-tucumán	tucumán
-guiné	guiné
-djerba	djerba
-ardoyne	ardoyne
-taba	taba
-baba amr	baba amr
-ayacucho	ayacucho
-erbil	erbil
-kadhimiya	kadhimiya
-rouen	rouen
-bunia	bunia
-kunar	kunar
-richland	richland
-trinidad	trinidad
-gansu	gansu
-leipzig	leipzig
-hackney	hackney
-charlotte	charlotte
-mingora	mingora
-tulsa	tulsa
-khyber-pakhtunkhwa	khyber-pakhtunkhwa
-khan younis	khan younis
-berkeley	berkeley
-meta	meta
-bucareste	bucareste
-haia	haia
-osaka	osaka
-mong kok	mong kok
-selma	selma
-bajaur	bajaur
-mohmand	mohmand
-paktika	paktika
-san juan	san juan
-winnenden	winnenden
-tijuana	tijuana
-baluquistão	baluquistão
-harasta	harasta
-basilan	basilan
-chemnitz	chemnitz
-bayaa	bayaa
-nova dã©li	nova dã©li
-hawija	hawija
-anantnag	anantnag
-azamiyah	azamiyah
-sabra	sabra
-paktia	paktia
-petare	petare
-saint louis	saint louis
-florencia	florencia
-tacna	tacna
-orakzai	orakzai
-arauquita	arauquita
-guadalajara	guadalajara
-tiro	tiro
-maracay	maracay
-rostock	rostock
-carolina do norte	carolina do norte
-jidda	jidda
-porto prã­ncipe	porto prã­ncipe
-salah	salah
-marib	marib
-gonaives	gonaives
-chhattisgarh	chhattisgarh
-irlanda do	irlanda do
-kidal	kidal
-burkina fasso	burkina fasso
-kurram	kurram
-louisville	louisville
-iugoslávia	iugoslávia
-tessalônica	tessalônica
-bagram	bagram
-deir ezzor	deir ezzor
-cabinda	cabinda
-johanesburgo	johanesburgo
-gardez	gardez
-grande buenos aires	grande buenos aires
-ajdabiya	ajdabiya
-yarmouk	yarmouk
-tolima	tolima
-bauchi	bauchi
-bannu	bannu
-poonch	poonch
-seine-saint-denis	seine-saint-denis
-derry	derry
-zulia	zulia
-khar	khar
-uagadugu	uagadugu
-liverpool	liverpool
-sinaloa	sinaloa
-odessa	odessa
-nassiriya	nassiriya
-afeganistã£o	afeganistã£o
-san pedro	san pedro
-shenzhen	shenzhen
-binghamton	binghamton
-doda	doda
-buenaventura	buenaventura
-curdistão	curdistão
-roterdã	roterdã
-ossétia do norte	ossétia do norte
-irlanda do norte	irlanda do norte
-nangarhar	nangarhar
-guwahati	guwahati
-musayyib	musayyib
-barquisimeto	barquisimeto
-dahab	dahab
-fort hood	fort hood
-batna	batna
-tame	tame
-bojayá	bojayá
-coahuila	coahuila
-adhamiya	adhamiya
-sindh	sindh
-abbottabad	abbottabad
-santa fã©	santa fã©
-sudbury	sudbury
-baghlan	baghlan
-rakhine	rakhine
-waziristão do sul	waziristão do sul
-makhachkala	makhachkala
-phoenix	phoenix
-grenoble	grenoble
-ayodhya	ayodhya
-surabaya	surabaya
-cidade sadr	cidade sadr
-brixton	brixton
-beit hanoun	beit hanoun
-caribe	caribe
-leganés	leganés
-westminster	westminster
-simferopol	simferopol
-cabília	cabília
-chaco	chaco
-isfahan	isfahan
-ahvaz	ahvaz
-colã ́mbia	colã ́mbia
-kupwara	kupwara
-cancún	cancún
-tchetchena	tchetchena
-bihar	bihar
-lashkar gah	lashkar gah
-cincinnati	cincinnati
-norte de santander	norte de santander
-dera	dera
-bagua	bagua
-burgas	burgas
-filadã©lfia	filadã©lfia
-lã­bano	lã­bano
-berna	berna
-potiskum	potiskum
-manã¡gua	manã¡gua
-mongkok	mongkok
-qinghai	qinghai
-spin boldak	spin boldak
-al-anbar	al-anbar
-navarra	navarra
-woomera	woomera
-guangdong	guangdong
-gao	gao
-montrouge	montrouge
-nazran	nazran
-kunming	kunming
-kisumu	kisumu
-suruç	suruç
-sistão	sistão
-akçakale	akçakale
-halle	halle
-millau	millau
-mozdok	mozdok
-carabobo	carabobo
-crimeia	crimeia
-sirnak	sirnak
-molenbeek	molenbeek
-aulnay-sous-bois	aulnay-sous-bois
-clichy-sous-bois	clichy-sous-bois
-toledo	toledo
-kuala	kuala
-cracóvia	cracóvia
-andahuaylas	andahuaylas
-san antonio	san antonio
-chocó	chocó
-muzaffarabad	muzaffarabad
-chilpancingo	chilpancingo
-midan	midan
-antrim	antrim
-potsdam	potsdam
-fuengirola	fuengirola
-timbuktu	timbuktu
-tremseh	tremseh
-daraa	daraa
-aba	aba
-ofra	ofra
-udhampur	udhampur
-avellaneda	avellaneda
-makati	makati
-la matanza	la matanza
-woolwich	woolwich
-durango	durango
-godhra	godhra
-sangin	sangin
-crawford	crawford
-orissa	orissa
-ashkelon	ashkelon
-leeds	leeds
-jaipur	jaipur
-el porvenir	el porvenir
-port harcourt	port harcourt
-maharashtra	maharashtra
-shaab	shaab
-cúcuta	cúcuta
-montréal	montréal
-auckland	auckland
-mahmoudiya	mahmoudiya
-laghman	laghman
-marbella	marbella
-okinawa	okinawa
-richmond	richmond
-boulder	boulder
-umm	umm
-ismailia	ismailia
-balad ruz	balad ruz
-san fernando	san fernando
-grigny	grigny
-sinjar	sinjar
-düsseldorf	düsseldorf
-bolívar	bolívar
-málaga	málaga
-rocha miranda	rocha miranda
-lucknow	lucknow
-gleneagles	gleneagles
-cuzco	cuzco
-muqdadiyah	muqdadiyah
-izmir	izmir
-guipúzcoa	guipúzcoa
-cundinamarca	cundinamarca
-tulkarm	tulkarm
-hinche	hinche
-baramulla	baramulla
-getxo	getxo
-amambay	amambay
-montpellier	montpellier
-mohandiseen	mohandiseen
-shiraz	shiraz
-vancouver	vancouver
-tuusula	tuusula
-sã£o petersburgo	sã£o petersburgo
-nuevo laredo	nuevo laredo
-nicarã¡gua	nicarã¡gua
-ninawa	ninawa
-rajouri	rajouri
-ashdod	ashdod
-antuérpia	antuérpia
-jaramana	jaramana
-sã­ria	sã­ria
-kiryat	kiryat
-ansbach	ansbach
-essex	essex
-jalisco	jalisco
-ezeiza	ezeiza
-valle del cauca	valle del cauca
-vila buarque	vila buarque
-rosarno	rosarno
-cap haitien	cap haitien
-brandemburgo	brandemburgo
-zaventem	zaventem
-megiddo	megiddo
-vladivostok	vladivostok
-nimroz	nimroz
-nuristão	nuristão
-eldoret	eldoret
-esmirna	esmirna
-bã©lgica	bã©lgica
-kibera	kibera
-neuquén	neuquén
-miranshah	miranshah
-kfar saba	kfar saba
-portadown	portadown
-chechênia	chechênia
-yucumo	yucumo
-waco	waco
-sandy hook	sandy hook
-lausanne	lausanne
-kerala	kerala
-sidney	sidney
-al karrada	al karrada
-zinyibar	zinyibar
-in amenas	in amenas
-gary	gary
-sicília	sicília
-pedro juan	pedro juan
-nuremberg	nuremberg
-assiut	assiut
-daraya	daraya
-creta	creta
-marikana	marikana
-borel	borel
-liège	liège
-ras lanuf	ras lanuf
-cambridge	cambridge
-sochi	sochi
-baidoa	baidoa
-waziristão do norte	waziristão do norte
-vieques	vieques
-gereshk	gereshk
+afganistán	Afghanistan
+azerbaiyán	Azerbaijan
+bangladés	Bangladesh
+baréin	Baréin
+bielorrusia	Belarus
+belice	Belize
+benín	Benin
+brunéi	Brunei
+burkina fasolisten	Burkina Faso
+camboya	Cambodia
+camerún	Cameroon
+república centroafricana	Central African Republic
+comoras	Comoros
+república checa	Czech Republic
+timor oriental	East Timor
+egipto	Egypt
+inglaterra	England
+etiopía	Ethiopia
+francia	France
+gabón	Gabon
+alemania	Germany
+holanda	Holand
+hungría	Hungary
+irán	Iran
+irak	Iraq
+islandia	Island
+japón	Japan
+kazajistán	Kazakhstan
+kenia	Kenya
+kirguistán	Kyrgyzstan
+maldivas	Maldivas
+mauricio	Mauricio
+moldavia	Moldavia
+marruecos	Morocco
+corea del norte	North Korea
+omán	Oman
+pakistán	Pakistan
+palestina	Palestina
+potugal	Portugal
+república del congo	Republic of Congo
+rumania	Romania
+rusia	Russia
+ruanda	Rwanda
+salvador	Salvador
+escosia	Scotland
+sierra leona	Sierra Leone
+singapur	Singapore
+sudáfrica	South Africa
+corea del sur	South Korea
+españa	Spain
+sudán	Sudan
+suiza	Switzerland
+túnez	Tunisia
+turquía	Turkey
+estados unidos	United States
+uzbekistán	Uzbekistan
+addis abeba	Addis Ababa
+adelaida	Adelaide
+alejandría	Alexandria
+arge	Algiers
+bagdad	Baghdad
+pekín	Beijing
+berlín	Berlin
+bogotá	Bogota
+bucarest	Bucharest
+el cairo	Cairo
+calcuta	Calcutta
+ciudad del cabo	Cape Town
+copenhague	Copenhagen
+dublín	Dublin
+ginebra	Geneva
+la habana	Havana
+estambul	Istanbul
+djakarta	Jakarta
+jerusalén	Jerusalem
+johanesburgo	Johannesburg
+los ángeles	Los Angeles
+luxemburgo	Luxembourg
+la meca	Mecca
+mosc	Moscow
+nueva delhi	New Delhi
+nueva orleans	New Orleans
+nueva york	New York
+parís	Paris
+filadelfia	Philadelphia
+pittsburgo	Pittsburgh
+praga	Prague
+reikiavik	Reykjavik
+roma	Roma
+seúl	Seoul
+la haya	The Hague
+tokio	Tokyo
+túnez	Tunis
+viena	Vienna
+varsovia	Warsaw
+afganistán	Afghanistan
+azerbaiyán	Azerbaijan
+bangladés	Bangladesh
+baréin	Baréin
+benín	Benin
+brunéi	Brunei
+camerún	Cameroon
+república centroafricana	Central African Republic
+república checa	Czech Republic
+etiopía	Ethiopia
+gabón	Gabon
+hungría	Hungary
+irán	Iran
+japón	Japan
+kazajistán	Kazakhstan
+kirguistán	Kyrgyzstan
+omán	Oman
+pakistán	Pakistan
+república del congo	Republic of Congo
+sudáfrica	South Africa
+españa	Spain
+sudán	Sudan
+túnez	Tunisia
+turquía	Turkey
+uzbekistán	Uzbekistan
+alejandría	Alexandria
+pekín	Beijing
+berlín	Berlin
+bogotá	Bogota
+dublín	Dublin
+jerusalén	Jerusalem
+los ángeles	Los Angeles
+parís	Paris
+seúl	Seoul
+túnez	Tunis
+barcelona	Barcelona
+moscú	Moscú
+bruselas	Bruselas
+río de janeiro	Río de Janeiro
+cisjordania	Cisjordania
+paquistán	Paquistán
+teherán	Teherán
+bombay	Bombay
+brasilia	Brasilia
+estados	Estados
+fray bentos	Fray Bentos
+milán	Milán
+niza	Niza
+hebrón	Hebrón
+bilbao	Bilbao
+homs	Homs
+basora	Basora
+estrasburgo	Estrasburgo
+cachemira	Cachemira
+jartum	Jartum
+tigray	Tigray
+puerto príncipe	Puerto Príncipe
+orlando	Orlando
+san francisco	San Francisco
+guayaquil	Guayaquil
+fallujah	Fallujah
+país vasco	País Vasco
+valencia	Valencia
+cúcuta	Cúcuta
+gran bretaña	Gran Bretaña
+ferguson	Ferguson
+marsella	Marsella
+almaty	Almaty
+chechenia	Chechenia
+newtown	Newtown
+pensilvania	Pensilvania
+toulouse	Toulouse
+kunduz	Kunduz
+ciudad de méxico	Ciudad de México
+porto alegre	Porto Alegre
+táchira	Táchira
+mekelle	Mekelle
+valparaíso	Valparaíso
+cataluña	Cataluña
+barajas	Barajas
+potosí	Potosí
+vélez	Vélez
+haití	Haití
+christchurch	Christchurch
+lockerbie	Lockerbie
+belo horizonte	Belo Horizonte
+dallas	Dallas
+hama	Hama
+donetsk	Donetsk
+deraa	Deraa
+sao paulo	Sao Paulo
+monterrey	Monterrey
+génova	Génova
+tamaulipas	Tamaulipas
+san bernardino	San Bernardino
+grozny	Grozny
+lyon	Lyon
+birmingham	Birmingham
+lugano	Lugano
+daguestán	Daguestán
+cauca	Cauca
+tijuana	Tijuana
+johannesburgo	Johannesburgo
+san petersburgo	San Petersburgo
+tíbet	Tíbet
+jalalabad	Jalalabad
+riad	Riad
+denver	Denver
+utoya	Utoya
+omagh	Omagh
+turín	Turín
+rotterdam	Rotterdam
+melbourne	Melbourne
+paysandú	Paysandú
+minas gerais	Minas Gerais
+netanya	Netanya
+málaga	Málaga
+tulkarem	Tulkarem
+burkina	Burkina
+cabo delgado	Cabo Delgado
+bahrein	Bahrein
+charleston	Charleston
+quebec	Quebec
+kufa	Kufa
+dacca	Dacca
+zaragoza	Zaragoza
+escocia	Escocia
+liverpool	Liverpool
+borno	Borno
+guadalajara	Guadalajara
+nueva jersey	Nueva Jersey
+ee.uu.	EE.UU.
+ciudad del este	Ciudad del Este
+hilla	Hilla
+baaquba	Baaquba
+detroit	Detroit
+nantes	Nantes
+nayaf	Nayaf
+rio de janeiro	Rio de Janeiro
+katmandú	Katmandú
+littleton	Littleton
+pittsburgh	Pittsburgh
+nueva zelanda	Nueva Zelanda
+toronto	Toronto
+oklahoma city	Oklahoma City
+venecia	Venecia
+el paso	El Paso
+lugansk	Lugansk
+tiananmen	Tiananmen
+cuenca	Cuenca
+arabia	Arabia
+osetia	Osetia
+punta del este	Punta del Este
+múnich	Múnich
+westminster	Westminster
+zurich	Zurich
+houston	Houston
+raqqa	Raqqa
+erbil	Erbil
+bolonia	Bolonia
+glew	Glew
+acapulco	Acapulco
+lille	Lille
+santiago de chile	Santiago de Chile
+tottenham	Tottenham
+soweto	Soweto
+dresde	Dresde
+edimburgo	Edimburgo
+sadr city	Sadr City
+tucson	Tucson
+bronx	Bronx
+bengasi	Bengasi
+cáucaso	Cáucaso
+janeiro	Janeiro
+idlib	Idlib
+stuttgart	Stuttgart
+montreal	Montreal
+boulogne	Boulogne
+slaviansk	Slaviansk
+leipzig	Leipzig
+windsor	Windsor
+alepo	Alepo
+guernica	Guernica
+punta arenas	Punta Arenas
+soldati	Soldati
+barcelona	Barcelona
+moscú	Moscú
+bruselas	Bruselas
+río de janeiro	Río de Janeiro
+cisjordania	Cisjordania
+paquistán	Paquistán
+teherán	Teherán
+bombay	Bombay
+brasilia	Brasilia
+estados	Estados
+fray bentos	Fray Bentos
+milán	Milán
+niza	Niza
+hebrón	Hebrón
+bilbao	Bilbao
+homs	Homs
+basora	Basora
+estrasburgo	Estrasburgo
+cachemira	Cachemira
+jartum	Jartum
+tigray	Tigray
+puerto príncipe	Puerto Príncipe
+orlando	Orlando
+san francisco	San Francisco
+guayaquil	Guayaquil
+fallujah	Fallujah
+país vasco	País Vasco
+valencia	Valencia
+cúcuta	Cúcuta
+gran bretaña	Gran Bretaña
+ferguson	Ferguson
+marsella	Marsella
+almaty	Almaty
+chechenia	Chechenia
+newtown	Newtown
+pensilvania	Pensilvania
+toulouse	Toulouse
+kunduz	Kunduz
+ciudad de méxico	Ciudad de México
+porto alegre	Porto Alegre
+táchira	Táchira
+mekelle	Mekelle
+valparaíso	Valparaíso
+cataluña	Cataluña
+barajas	Barajas
+potosí	Potosí
+vélez	Vélez
+haití	Haití
+christchurch	Christchurch
+lockerbie	Lockerbie
+belo horizonte	Belo Horizonte
+dallas	Dallas
+hama	Hama
+donetsk	Donetsk
+deraa	Deraa
+sao paulo	Sao Paulo
+monterrey	Monterrey
+génova	Génova
+tamaulipas	Tamaulipas
+san bernardino	San Bernardino
+grozny	Grozny
+lyon	Lyon
+birmingham	Birmingham
+lugano	Lugano
+daguestán	Daguestán
+cauca	Cauca
+tijuana	Tijuana
+johannesburgo	Johannesburgo
+san petersburgo	San Petersburgo
+tíbet	Tíbet
+jalalabad	Jalalabad
+riad	Riad
+denver	Denver
+utoya	Utoya
+omagh	Omagh
+turín	Turín
+rotterdam	Rotterdam
+melbourne	Melbourne
+paysandú	Paysandú
+minas gerais	Minas Gerais
+netanya	Netanya
+málaga	Málaga
+tulkarem	Tulkarem
+burkina	Burkina
+cabo delgado	Cabo Delgado
+bahrein	Bahrein
+charleston	Charleston
+quebec	Quebec
+kufa	Kufa
+dacca	Dacca
+zaragoza	Zaragoza
+escocia	Escocia
+liverpool	Liverpool
+borno	Borno
+guadalajara	Guadalajara
+nueva jersey	Nueva Jersey
+ee.uu.	EE.UU.
+ciudad del este	Ciudad del Este
+hilla	Hilla
+baaquba	Baaquba
+detroit	Detroit
+nantes	Nantes
+nayaf	Nayaf
+rio de janeiro	Rio de Janeiro
+katmandú	Katmandú
+littleton	Littleton
+pittsburgh	Pittsburgh
+nueva zelanda	Nueva Zelanda
+toronto	Toronto
+oklahoma city	Oklahoma City
+venecia	Venecia
+el paso	El Paso
+lugansk	Lugansk
+tiananmen	Tiananmen
+cuenca	Cuenca
+arabia	Arabia
+osetia	Osetia
+punta del este	Punta del Este
+múnich	Múnich
+westminster	Westminster
+zurich	Zurich
+houston	Houston
+raqqa	Raqqa
+erbil	Erbil
+bolonia	Bolonia
+glew	Glew
+acapulco	Acapulco
+lille	Lille
+santiago de chile	Santiago de Chile
+tottenham	Tottenham
+soweto	Soweto
+dresde	Dresde
+edimburgo	Edimburgo
+sadr city	Sadr City
+tucson	Tucson
+bronx	Bronx
+bengasi	Bengasi
+cáucaso	Cáucaso
+janeiro	Janeiro
+idlib	Idlib
+stuttgart	Stuttgart
+montreal	Montreal
+boulogne	Boulogne
+slaviansk	Slaviansk
+leipzig	Leipzig
+windsor	Windsor
+alepo	Alepo
+guernica	Guernica
+punta arenas	Punta Arenas
+soldati	Soldati
+moscú	Moscú
+río de janeiro	Río de Janeiro
+paquistán	Paquistán
+teherán	Teherán
+milán	Milán
+hebrón	Hebrón
+puerto príncipe	Puerto Príncipe
+país vasco	País Vasco
+cúcuta	Cúcuta
+gran bretaña	Gran Bretaña
+ciudad de méxico	Ciudad de México
+táchira	Táchira
+valparaíso	Valparaíso
+cataluña	Cataluña
+potosí	Potosí
+vélez	Vélez
+haití	Haití
+génova	Génova
+daguestán	Daguestán
+tíbet	Tíbet
+turín	Turín
+paysandú	Paysandú
+málaga	Málaga
+katmandú	Katmandú
+múnich	Múnich
+cáucaso	Cáucaso
